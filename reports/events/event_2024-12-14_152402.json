@@ -1,0 +1,11 @@
+{
+  "tag": "2024-12-14_152402",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.lojinha/com.lojinha.ui.MainActivity"
+  },
+  "start_state": "0ba7867d32b40b67ce9d9860dccea0f9",
+  "stop_state": "de2afd80035e87971a2c3b123dce062b",
+  "event_str": "IntentEvent(intent='am start com.lojinha/com.lojinha.ui.MainActivity')"
+}

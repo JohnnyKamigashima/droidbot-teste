@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_151303",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1178
+        ],
+        [
+          360,
+          1280
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/btnAddIncome",
+      "checked": false,
+      "text": "ADICIONAR RECEITA",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "360*102",
+      "signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddIncome[text]ADICIONAR RECEITA[enabled,,]",
+      "view_str": "5b522e1579d4e51ee6d2dec91edce267",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddIncome",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "11",
+      "desc": "<button bound_box=0,1178,360,1280>ADICIONAR RECEITA</button>"
+    }
+  },
+  "start_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "stop_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "event_str": "TouchEvent(state=7775cfa1e5944d3b7f0960580ab34ff8, view=5b522e1579d4e51ee6d2dec91edce267(MainActivity/Button-ADICIONAR ))"
+}

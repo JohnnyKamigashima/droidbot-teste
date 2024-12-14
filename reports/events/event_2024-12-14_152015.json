@@ -1,0 +1,58 @@
+{
+  "tag": "2024-12-14_152015",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Wi-Fi,Ligado.,TELEFUNKEN-5G,Bot\u00e3o",
+      "children": [
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          38,
+          82
+        ],
+        [
+          114,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "76*76",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "a13091b5ba51df3188a1bc23674215c3",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "3",
+      "desc": "<button text='Wi-Fi,Ligado.,TELEFUNKEN-5G,Bot\u00e3o' bound_box=38,82,114,158></button>"
+    }
+  },
+  "start_state": "b8bd984e6d5179172a665233155aacea",
+  "stop_state": "b8bd984e6d5179172a665233155aacea",
+  "event_str": "TouchEvent(state=b8bd984e6d5179172a665233155aacea, view=a13091b5ba51df3188a1bc23674215c3(MainActivity/ViewGroup-))"
+}

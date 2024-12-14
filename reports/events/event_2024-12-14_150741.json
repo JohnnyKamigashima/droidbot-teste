@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_150741",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "android",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          102,
+          596
+        ],
+        [
+          618,
+          645
+        ]
+      ],
+      "resource_id": "android:id/alertTitle",
+      "checked": false,
+      "text": "O Money Tracker parou.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "516*49",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/alertTitle[text]O Money Tracker parou.[enabled,,]",
+      "view_str": "2d744c770118420fa3c8b84d5bb3d454",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/alertTitle",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "0",
+      "desc": "<p bound_box=102,596,618,645>O Money Tracker parou.</p>"
+    }
+  },
+  "start_state": "02cbcd61b92a7e97e8092c0466ae3535",
+  "stop_state": "02cbcd61b92a7e97e8092c0466ae3535",
+  "event_str": "TouchEvent(state=02cbcd61b92a7e97e8092c0466ae3535, view=2d744c770118420fa3c8b84d5bb3d454(MainActivity/TextView-O Money Tr))"
+}

@@ -1,0 +1,57 @@
+{
+  "tag": "2024-12-14_151606",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.lojinha",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          32,
+          545
+        ],
+        [
+          688,
+          656
+        ]
+      ],
+      "resource_id": "com.lojinha:id/editText",
+      "checked": false,
+      "text": "Usu\u00e1rio",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "656*111",
+      "signature": "[class]android.widget.EditText[resource_id]com.lojinha:id/editText[text]Usu\u00e1rio[enabled,,]",
+      "view_str": "4d1daad684ecf67a7971dc7f573b4a42",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.lojinha:id/editText",
+      "allowed_actions": [
+        "touch",
+        "set_text",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "0",
+      "desc": "<input bound_box=32,545,688,656>Usu\u00e1rio</input>"
+    }
+  },
+  "start_state": "de2afd80035e87971a2c3b123dce062b",
+  "stop_state": "de2afd80035e87971a2c3b123dce062b",
+  "event_str": "TouchEvent(state=de2afd80035e87971a2c3b123dce062b, view=4d1daad684ecf67a7971dc7f573b4a42(MainActivity/EditText-Usu\u00e1rio))"
+}

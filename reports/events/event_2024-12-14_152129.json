@@ -1,0 +1,56 @@
+{
+  "tag": "2024-12-14_152129",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Bluetooth, Etiqueta de bot\u00e3o, Toque duas vezes para ver as configura\u00e7\u00f5es r\u00e1pidas relevantes.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          290,
+          204
+        ],
+        [
+          430,
+          270
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/tile_label",
+      "checked": false,
+      "text": "Bluetooth",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 52,
+      "temp_id": 53,
+      "size": "140*66",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/tile_label[text]Bluetooth[enabled,,]",
+      "view_str": "158d329608098d9a454c9bb902b3f5c7",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/tile_label",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "10",
+      "desc": "<button text='Bluetooth, Etiqueta de bot\u00e3o, Toque duas vezes para ver as configura\u00e7\u00f5es r\u00e1pidas relevantes.' bound_box=290,204,430,270>Bluetooth</button>"
+    }
+  },
+  "start_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "stop_state": "fa4bc45f7c362c7f9a7fffa7b21b7daa",
+  "event_str": "TouchEvent(state=dbc76f543e3b7b78293fbda4195cdcac, view=158d329608098d9a454c9bb902b3f5c7(MainActivity/TextView-Bluetooth))"
+}

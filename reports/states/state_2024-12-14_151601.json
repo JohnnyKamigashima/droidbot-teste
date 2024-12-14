@@ -1,0 +1,1413 @@
+{
+  "tag": "2024-12-14_151601",
+  "state_str": "fd6545b732dfef51ec1dc1b188e8f891",
+  "state_str_content_free": "d4bd25ace54275fbf33ca3ca48e85645",
+  "foreground_activity": "com.teslacoilsw.launcher/.NovaLauncher",
+  "activity_stack": [
+    "com.teslacoilsw.launcher/.NovaLauncher"
+  ],
+  "background_services": [
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.SmsService",
+    "com.google.android.gms/.play.integrity.api.service.IntegrityApiPersistentService",
+    "com.google.android.gms/.chimera.PersistentInternalBoundBrokerService",
+    "com.google.android.gms/.ads.identifier.service.AdvertisingIdService",
+    "com.google.android.gms/.nearby.sharing.ReceiveSurfaceService",
+    "com.google.android.gms/.icing.service.AppIndexingService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.sec.android.inputmethod/com.nuance.connect.service.ConnectClient",
+    "com.android.bluetooth/.btservice.AdapterService",
+    "com.x8bit.bitwarden/.Accessibility.AccessibilityService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.sec.epdg/.EpdgService",
+    "com.sec.ims/.ImsTelephonyService",
+    "com.sec.imsservice/com.sec.internal.ims.entitlement.nsds.NSDSMultiSimService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.sec.enterprise.mdm.services.simpin/.EnterpriseSimPin",
+    "com.google.android.gms/.chimera.PersistentApiServiceNoInstantApps",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.PresenceService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.dsi.ant.server/.AntService",
+    "com.google.android.gms/.location.geocode.GeocodeService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.CapabilityService",
+    "com.sec.location.nsflp2/.nsmonitor.NSMonitorService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.android.bluetooth/.gatt.GattService",
+    "com.google.android.gms/.chimera.GmsBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsApiService",
+    "com.android.bluetooth/.sap.SapService",
+    "com.google.android.gms/.findmydevice.spot.bleadvertising.OfflineBeaconService_Persistent",
+    "com.google.android.gms/.nearby.sharing.SendSurfaceService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.semanticlocation.service.SemanticLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.android.vending/com.google.frameworks.client.data.android.server.play.BackgroundProcessEndpointService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.ImsService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.samsung.sec.android.application.csc/.CscUpdateService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.trustonic.tuiservice/.TuiService",
+    "com.sec.spp.push/.PushClientService",
+    "com.sec.sve/.service.SecVideoEngineService",
+    "com.android.systemui/.SystemUIService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.samsung.android.smartface/.SmartFaceServiceStarter",
+    "com.sec.android.app.launcher/com.android.launcher3.notification.NotificationListener",
+    "com.samsung.cmh/.service.CMHService",
+    "com.google.android.gms/.chimera.GmsIntentOperationService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.samsung.android.lool/com.samsung.android.sm.widgetapp.SMWidgetService",
+    "com.google.android.gms/.chimera.PersistentIntentOperationService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.UtService",
+    "com.samsung.android.MtpApplication/.MtpService",
+    "com.google.android.gms/.auth.trustagent.GoogleTrustAgent",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.sec.android.app.sbrowser/org.chromium.content.app.SandboxedProcessService0",
+    "com.samsung.android.fmm/com.fmm.dm.XDMService",
+    "com.android.server.telecom/.AutoCSPService",
+    "com.sec.android.app.sbrowser/org.chromium.content.app.PrivilegedProcessService0",
+    "com.android.server.telecom/.components.BluetoothPhoneService",
+    "com.google.android.gms/.fido.authenticator.service.AuthenticatorService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.android.stk/.StkAppService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "android/com.android.server.DrmEventService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.samsung.android.providers.context/.ContextService",
+    "com.google.android.gms/.crisisalerts.init.CrisisAlertsPersistentService",
+    "android/com.android.internal.backup.LocalTransportService",
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.google.android.gms/.dtdi.lifecycle.LifecycleService",
+    "com.google.android.gms/.chimera.GmsInternalBoundBrokerService",
+    "com.samsung.android.beaconmanager/.BeaconService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.VolteService2",
+    "com.android.stk2/.StkAppService",
+    "com.android.defcontainer/.DefaultContainerService",
+    "com.google.android.gms/.personalsafety.service.PersonalSafetyService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.gms/.backup.component.D2dTransportService",
+    "com.samsung.android.stickercenter/.StickerCenterService",
+    "com.google.android.gms/.icing.service.IndexService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.google.android.gms/.backup.BackupTransportService",
+    "com.sec.phone/.SecPhoneService",
+    "com.samsung.cmh/.service.CMHService"
+  ],
+  "width": 1440,
+  "height": 2560,
+  "views": [
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "7a00a2d77619185fdc14f0f3738e9c77",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "720*1280",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "d8109fbe6cb0a2efb1ea12091a783e53",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "f267e18740bcc3e4494f0b3fbd119fb0",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/launcher",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.teslacoilsw.launcher:id/launcher[text]None[enabled,,]",
+      "view_str": "50d86e65c7f41b748017809905e21258",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.teslacoilsw.launcher:id/launcher"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5,
+        8,
+        9,
+        19,
+        20,
+        21
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/drag_layer",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.teslacoilsw.launcher:id/drag_layer[text]None[enabled,,]",
+      "view_str": "5e81f00bc67faa42d41e54592fbbfcb8",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.teslacoilsw.launcher:id/drag_layer"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/workspace",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "720*1280",
+      "signature": "[class]android.widget.ScrollView[resource_id]com.teslacoilsw.launcher:id/workspace[text]None[enabled,,]",
+      "view_str": "91dd8527e49d704b63cfb6a5493abc21",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]com.teslacoilsw.launcher:id/workspace",
+      "allowed_actions": [
+        "scroll up",
+        "scroll down"
+      ],
+      "special_attrs": [],
+      "local_id": "0",
+      "desc": "<scrollbar bound_box=0,0,720,1280></scrollbar>"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          48
+        ],
+        [
+          720,
+          972
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "720*924",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "6b659e51dc18093d704ed56ac9aad8e3",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          48
+        ],
+        [
+          720,
+          972
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "720*924",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "66eb7f500e9236526e3b79cf1a81424c",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/scrim_view",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 8,
+      "size": "720*1280",
+      "signature": "[class]android.view.View[resource_id]com.teslacoilsw.launcher:id/scrim_view[text]None[enabled,,]",
+      "view_str": "6b018abc8d0dc80b3c551598ce2b7766",
+      "content_free_signature": "[class]android.view.View[resource_id]com.teslacoilsw.launcher:id/scrim_view"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        10,
+        16,
+        18
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1066
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/apps_view",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 9,
+      "size": "720*214",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.teslacoilsw.launcher:id/apps_view[text]None[enabled,,]",
+      "view_str": "641bff4af705127c202b0527166dca32",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.teslacoilsw.launcher:id/apps_view"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1134
+        ],
+        [
+          720,
+          1246
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/search_container_all_apps",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "720*112",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.teslacoilsw.launcher:id/search_container_all_apps[text]None[enabled,,]",
+      "view_str": "9a1c4d0b7b7a64c820971e169b2906de",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.teslacoilsw.launcher:id/search_container_all_apps"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1134
+        ],
+        [
+          720,
+          1246
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "720*112",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "aa4644abca58b3369a4b1237bc205515",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Pesquisa Nova",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          57,
+          1146
+        ],
+        [
+          145,
+          1234
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "88*88",
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+      "view_str": "16037d444e8817fb34e03a6822fee04e",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "1",
+      "desc": "<button text='Pesquisa Nova' bound_box=57,1146,145,1234></button>"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          327,
+          1146
+        ],
+        [
+          453,
+          1234
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "1  #icon#",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 13,
+      "size": "126*88",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]1  #icon#[enabled,,]",
+      "view_str": "fd6a822ba721b0c44b31ed4cab6ea1ec",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<button bound_box=327,1146,453,1234>1  #icon#</button>"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Pesquisa por voz",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          453,
+          1146
+        ],
+        [
+          517,
+          1234
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 14,
+      "size": "64*88",
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+      "view_str": "16037d444e8817fb34e03a6822fee04e",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "3",
+      "desc": "<button text='Pesquisa por voz' bound_box=453,1146,517,1234></button>"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          517,
+          1146
+        ],
+        [
+          663,
+          1234
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "14 de dez",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 15,
+      "size": "146*88",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]14 de dez[enabled,,]",
+      "view_str": "536977fb9b643e2374d6510e1fce8b84",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "4",
+      "desc": "<button bound_box=517,1146,663,1234>14 de dez</button>"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1198
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/all_apps_header",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 16,
+      "size": "720*82",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.teslacoilsw.launcher:id/all_apps_header[text]None[enabled,,]",
+      "view_str": "9193e6c1e5f9524743a97d26118cbede",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.teslacoilsw.launcher:id/all_apps_header"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1445
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/apps_divider_view",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "720*-165",
+      "signature": "[class]android.view.View[resource_id]com.teslacoilsw.launcher:id/apps_divider_view[text]None[enabled,,]",
+      "view_str": "b49bf0c841e402f5222a065c2dd228c6",
+      "content_free_signature": "[class]android.view.View[resource_id]com.teslacoilsw.launcher:id/apps_divider_view"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          532,
+          1270
+        ],
+        [
+          682,
+          1280
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/fast_scroller_popup",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 18,
+      "size": "150*10",
+      "signature": "[class]android.widget.TextView[resource_id]com.teslacoilsw.launcher:id/fast_scroller_popup[text]None[enabled,,]",
+      "view_str": "4c407f07f219322f0a4c659f090f55f6",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.teslacoilsw.launcher:id/fast_scroller_popup"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Tela inicial",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          48
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 19,
+      "size": "720*1232",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "16afa51ac88bfd556b9d6842ac7ad205",
+      "content_free_signature": "[class]android.view.View[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "5",
+      "desc": "<p text='Tela inicial' bound_box=0,48,720,1280></p>"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          924
+        ],
+        [
+          720,
+          972
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/page_indicator",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 20,
+      "size": "720*48",
+      "signature": "[class]android.view.View[resource_id]com.teslacoilsw.launcher:id/page_indicator[text]None[enabled,,]",
+      "view_str": "f05de85f6ea1cd27f3eef2eb4aa48758",
+      "content_free_signature": "[class]android.view.View[resource_id]com.teslacoilsw.launcher:id/page_indicator"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          972
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/hotseat",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 21,
+      "size": "720*308",
+      "signature": "[class]android.widget.ScrollView[resource_id]com.teslacoilsw.launcher:id/hotseat[text]None[enabled,,]",
+      "view_str": "7b08b8b13c127bc3e2371985d51c8007",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]com.teslacoilsw.launcher:id/hotseat",
+      "allowed_actions": [
+        "scroll up",
+        "scroll down"
+      ],
+      "special_attrs": [],
+      "local_id": "6",
+      "desc": "<scrollbar bound_box=0,972,720,1280></scrollbar>"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          972
+        ],
+        [
+          720,
+          1100
+        ]
+      ],
+      "resource_id": "com.teslacoilsw.launcher:id/layout",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "720*128",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.teslacoilsw.launcher:id/layout[text]None[enabled,,]",
+      "view_str": "bdcf09c9e5073bca13c1985945ae22f9",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.teslacoilsw.launcher:id/layout"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        24,
+        25,
+        31
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          972
+        ],
+        [
+          720,
+          1100
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "720*128",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "5481c4e952d70ab7fff04ff690d868d4",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Files, Dock",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          972
+        ],
+        [
+          180,
+          1100
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Files",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "180*128",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Files[enabled,,]",
+      "view_str": "7d7e38f2c884928a2e48c8b48acafe12",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "7",
+      "desc": "<button text='Files, Dock' bound_box=0,972,180,1100>Files</button>"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Manuten\u00e7\u00e3o do aparelho",
+      "children": [
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          180,
+          972
+        ],
+        [
+          360,
+          1100
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "h8.j",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 23,
+      "temp_id": 25,
+      "size": "180*128",
+      "signature": "[class]h8.j[resource_id]None[text]None[enabled,,]",
+      "view_str": "61e79a8edd4f2f386723b2d2bf865dbe",
+      "content_free_signature": "[class]h8.j[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "8",
+      "desc": "<p text='Manuten\u00e7\u00e3o do aparelho' bound_box=180,972,360,1100></p>"
+    },
+    {
+      "package": "com.samsung.android.lool",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        27,
+        30
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          196,
+          988
+        ],
+        [
+          344,
+          1084
+        ]
+      ],
+      "resource_id": "com.samsung.android.lool:id/sm_widget_onebutton_layout",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "148*96",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.samsung.android.lool:id/sm_widget_onebutton_layout[text]None[enabled,,]",
+      "view_str": "fc24961d0f75889ff12899209904bc5e",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.samsung.android.lool:id/sm_widget_onebutton_layout"
+    },
+    {
+      "package": "com.samsung.android.lool",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          230,
+          996
+        ],
+        [
+          310,
+          1084
+        ]
+      ],
+      "resource_id": "com.samsung.android.lool:id/widget_view_flipper_done",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ViewFlipper",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "80*88",
+      "signature": "[class]android.widget.ViewFlipper[resource_id]com.samsung.android.lool:id/widget_view_flipper_done[text]None[enabled,,]",
+      "view_str": "238e833d3d7ffa0b758679e321376be8",
+      "content_free_signature": "[class]android.widget.ViewFlipper[resource_id]com.samsung.android.lool:id/widget_view_flipper_done"
+    },
+    {
+      "package": "com.samsung.android.lool",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        29
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          230,
+          996
+        ],
+        [
+          310,
+          1070
+        ]
+      ],
+      "resource_id": "com.samsung.android.lool:id/widget_view_flipper_progress",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ViewFlipper",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "80*74",
+      "signature": "[class]android.widget.ViewFlipper[resource_id]com.samsung.android.lool:id/widget_view_flipper_progress[text]None[enabled,,]",
+      "view_str": "ddbad44b2fdf9b953c455694bed19599",
+      "content_free_signature": "[class]android.widget.ViewFlipper[resource_id]com.samsung.android.lool:id/widget_view_flipper_progress"
+    },
+    {
+      "package": "com.samsung.android.lool",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Otimizar",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          230,
+          996
+        ],
+        [
+          310,
+          1070
+        ]
+      ],
+      "resource_id": "com.samsung.android.lool:id/widget_one_click_image",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 29,
+      "size": "80*74",
+      "signature": "[class]android.widget.ImageView[resource_id]com.samsung.android.lool:id/widget_one_click_image[text]None[enabled,,]",
+      "view_str": "1ab0197b91abc38822d5d8eb8ac29352",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.samsung.android.lool:id/widget_one_click_image",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "9",
+      "desc": "<button text='Otimizar' bound_box=230,996,310,1070></button>"
+    },
+    {
+      "package": "com.samsung.android.lool",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          200,
+          1084
+        ],
+        [
+          340,
+          1084
+        ]
+      ],
+      "resource_id": "com.samsung.android.lool:id/widget_fix_now",
+      "checked": false,
+      "text": "OTIMIZAR",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 30,
+      "size": "140*0",
+      "signature": "[class]android.widget.TextView[resource_id]com.samsung.android.lool:id/widget_fix_now[text]OTIMIZAR[enabled,,]",
+      "view_str": "5d61746c6d72bbac17c75460c6ee67d0",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.samsung.android.lool:id/widget_fix_now"
+    },
+    {
+      "package": "com.teslacoilsw.launcher",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Chrome, Dock",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          360,
+          972
+        ],
+        [
+          540,
+          1100
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Chrome",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 23,
+      "temp_id": 31,
+      "size": "180*128",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Chrome[enabled,,]",
+      "view_str": "9183c9309aa6da286fe16e1c8ca19e23",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "10",
+      "desc": "<button text='Chrome, Dock' bound_box=360,972,540,1100>Chrome</button>"
+    }
+  ]
+}

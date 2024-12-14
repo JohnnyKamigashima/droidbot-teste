@@ -1,0 +1,152 @@
+Activity Resolver Table:
+  Schemes:
+      db-5lqugcckdy9y6lj:
+        a454c73 com.blogspot.e_kanivets.moneytracker/com.dropbox.core.android.AuthActivity filter 351690f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "db-5lqugcckdy9y6lj"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        bec730 com.blogspot.e_kanivets.moneytracker/.activity.record.MainActivity filter 4ddde6e
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.blogspot.e_kanivets.moneytracker/androidx.lifecycle.ProcessLifecycleOwnerInitializer:
+    Provider{10b9fa9 com.blogspot.e_kanivets.moneytracker/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+  com.blogspot.e_kanivets.moneytracker/androidx.core.content.FileProvider:
+    Provider{24ea92e com.blogspot.e_kanivets.moneytracker/androidx.core.content.FileProvider}
+
+ContentProvider Authorities:
+  [com.blogspot.e_kanivets.moneytracker]:
+    Provider{24ea92e com.blogspot.e_kanivets.moneytracker/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{a9e3ccf com.blogspot.e_kanivets.moneytracker}
+  [com.blogspot.e_kanivets.moneytracker.lifecycle-process]:
+    Provider{10b9fa9 com.blogspot.e_kanivets.moneytracker/androidx.lifecycle.ProcessLifecycleOwnerInitializer}
+      applicationInfo=ApplicationInfo{a9e3ccf com.blogspot.e_kanivets.moneytracker}
+
+Key Set Manager:
+  [com.blogspot.e_kanivets.moneytracker]
+      Signing KeySets: 751
+
+Packages:
+  Package [com.blogspot.e_kanivets.moneytracker] (301265c):
+    userId=10450
+    pkg=Package{8558d65 com.blogspot.e_kanivets.moneytracker}
+    codePath=/data/app/com.blogspot.e_kanivets.moneytracker-Crg63J29-su9DeiwcbmQeQ==
+    resourcePath=/data/app/com.blogspot.e_kanivets.moneytracker-Crg63J29-su9DeiwcbmQeQ==
+    legacyNativeLibraryDir=/data/app/com.blogspot.e_kanivets.moneytracker-Crg63J29-su9DeiwcbmQeQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    dexMode=unknown
+    versionCode=35 minSdk=19 targetSdk=28
+    versionName=2.1.3
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{a9e3ccf com.blogspot.e_kanivets.moneytracker}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.blogspot.e_kanivets.moneytracker
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2024-12-14 15:24:03
+    firstInstallTime=2024-12-14 15:24:06
+    lastUpdateTime=2024-12-14 15:24:06
+    signatures=PackageSignatures{ea02a3a [6d6378ff]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=459379 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false
+      gids=[3003]
+      runtime permissions:
+mSkippingApks:
+  package : AxelSpringer.apk
+  package : AndroidPay_erasable_Hero.apk
+  package : UnifiedWFC.apk
+  package : Omc.apk
+  package : SamsungUpdates.apk
+  package : RcsSettings.apk
+  package : OMCAgent.apk
+  package : AirtelStub.apk
+  package : KT114Provider.apk
+
+Package Changes:
+  Sequence number=54
+  User 0:
+    seq=4, package=com.google.ar.core
+    seq=9, package=com.android.chrome
+    seq=13, package=com.google.android.gms
+    seq=19, package=com.samsung.android.spayfw
+    seq=20, package=com.spotify.music
+    seq=21, package=eu.darken.sdmse
+    seq=22, package=com.duckduckgo.mobile.android
+    seq=31, package=com.sec.android.app.sbrowser
+    seq=49, package=com.android.settings
+    seq=52, package=io.github.ylimit.droidbotapp
+    seq=53, package=com.blogspot.e_kanivets.moneytracker
+
+
+Dexopt state:
+  [com.blogspot.e_kanivets.moneytracker]
+    Instruction Set: arm64
+      path: /data/app/com.blogspot.e_kanivets.moneytracker-Crg63J29-su9DeiwcbmQeQ==/base.apk
+      status: /data/app/com.blogspot.e_kanivets.moneytracker-Crg63J29-su9DeiwcbmQeQ==/oat/arm64/base.odex[status=kOatUpT
+      oDate, compilation_filter=quicken]
+
+
+Compiler stats:
+  [com.blogspot.e_kanivets.moneytracker]
+     base.apk - 2241
+
+
+Package White/Blacklist Metadata:
+
+Historical install Logging info(9/10):
+  [com.blogspot.e_kanivets.moneytracker]
+    1734200642683: "Ver":"35", "Session":"0", "Write":"14", "Commit":"608", "Stage":"34", "Init":"316", "Copy":"49", "Si
+    gn":"75", "DexOpt":"2249", 
+  [protect.budgetwatch]
+    1734200120700: "Ver":"28", "Session":"0", "Write":"8", "Commit":"443", "Stage":"25", "Init":"372", 
+  [io.github.ylimit.droidbotapp]
+    1734200632480: "Ver":"1", "Session":"0", "Write":"13", "Commit":"460", "Stage":"25", "Init":"540", "Copy":"44", "Sig
+    n":"96", "DexOpt":"1318", 
+
+-------- coreapps list --------
+com.sec.location.nsflp2:/system/priv-app/NSFusedLocation_v3.2
+com.google.android.ext.services:/system/priv-app/GoogleExtServices
+com.android.providers.telephony:/system/priv-app/SecTelephonyProvider
+com.google.android.ext.shared:/system/app/GoogleExtShared
+com.samsung.android.incallui:/system/priv-app/SamsungInCallUI
+com.samsung.android.knox.containercore:/system/priv-app/KnoxCore
+com.sec.vsimservice:/system/app/vsimservice
+org.simalliance.openmobileapi.service:/system/app/SmartcardService
+com.android.mms.service:/system/priv-app/MmsService
+com.samsung.ucs.agent.boot:/system/app/bootagent
+com.android.defcontainer:/system/priv-app/DefaultContainerService
+com.sec.ims:/system/priv-app/ImsTelephonyService
+com.sec.sve:/system/app/sveservice
+com.samsung.android.SettingsReceiver:/system/priv-app/SettingsReceiver
+android:/system/framework/framework-res.apk
+com.android.providers.settings:/system/priv-app/SecSettingsProvider
+com.sec.imsservice:/system/priv-app/imsservice
+com.android.inputdevices:/system/priv-app/InputDevices
+com.samsung.knox.securefolder:/system/priv-app/SecureFolder
+com.samsung.advp.imssettings:/system/app/ImsSettings
+com.sec.android.inputmethod:/system/app/SamsungIMEv3.0
+com.android.server.telecom:/system/priv-app/Telecom
+com.google.android.packageinstaller:/system/priv-app/GooglePackageInstaller
+com.android.proxyhandler:/system/priv-app/ProxyHandler
+com.sec.phone:/system/app/SecFactoryPhoneTest
+com.sec.app.RilErrorNotifier:/system/priv-app/PhoneErrService
+com.android.settings:/system/priv-app/SecSettings
+com.android.phone:/system/priv-app/TeleService
+com.android.shell:/system/priv-app/Shell
+com.android.location.fused:/system/priv-app/FusedLocation
+com.sec.epdg:/system/priv-app/EpdgService
+com.android.systemui:/system/priv-app/SystemUI

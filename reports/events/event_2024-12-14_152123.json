@@ -1,0 +1,56 @@
+{
+  "tag": "2024-12-14_152123",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Silenciar, Etiqueta de bot\u00e3o, Toque duas vezes para ver as configura\u00e7\u00f5es r\u00e1pidas relevantes.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          155,
+          204
+        ],
+        [
+          295,
+          270
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/tile_label",
+      "checked": false,
+      "text": "Silenciar",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "140*66",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/tile_label[text]Silenciar[enabled,,]",
+      "view_str": "fa21948b3884033000084b9da0c2091a",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/tile_label",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "8",
+      "desc": "<button text='Silenciar, Etiqueta de bot\u00e3o, Toque duas vezes para ver as configura\u00e7\u00f5es r\u00e1pidas relevantes.' bound_box=155,204,295,270>Silenciar</button>"
+    }
+  },
+  "start_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "stop_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "event_str": "TouchEvent(state=dbc76f543e3b7b78293fbda4195cdcac, view=fa21948b3884033000084b9da0c2091a(MainActivity/TextView-Silenciar))"
+}

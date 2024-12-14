@@ -1,0 +1,11 @@
+{
+  "tag": "2024-12-14_151239",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "stop_intent": "am force-stop com.blogspot.e_kanivets.moneytracker"
+  },
+  "start_state": "fd6545b732dfef51ec1dc1b188e8f891",
+  "stop_state": "9687ec13c06126c6e17fdd1a80dbcbc6",
+  "event_str": "KillAppEvent()"
+}

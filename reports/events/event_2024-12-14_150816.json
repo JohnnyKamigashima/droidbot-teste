@@ -1,0 +1,11 @@
+{
+  "tag": "2024-12-14_150816",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.blogspot.e_kanivets.moneytracker/com.blogspot.e_kanivets.moneytracker.activity.record.MainActivity"
+  },
+  "start_state": "54e752192eb3935bd2f5a9c19fc22a8f",
+  "stop_state": "9d0f3f2d4927cfe5b7959b31c18cb1a2",
+  "event_str": "IntentEvent(intent='am start com.blogspot.e_kanivets.moneytracker/com.blogspot.e_kanivets.moneytracker.activity.record.MainActivity')"
+}

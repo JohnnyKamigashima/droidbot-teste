@@ -1,0 +1,6878 @@
+{
+  "tag": "2024-12-14_151930",
+  "state_str": "775089b04f0c6474f707ebfd73932250",
+  "state_str_content_free": "5d88b349177a3b8ae3fdbfe3f5db43a9",
+  "foreground_activity": "com.teslacoilsw.launcher/.NovaLauncher",
+  "activity_stack": [
+    "com.teslacoilsw.launcher/.NovaLauncher"
+  ],
+  "background_services": [
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.SmsService",
+    "com.google.android.gms/.play.integrity.api.service.IntegrityApiPersistentService",
+    "com.google.android.gms/.chimera.PersistentInternalBoundBrokerService",
+    "com.google.android.gms/.nearby.sharing.ReceiveSurfaceService",
+    "com.samsung.faceservice/.FaceService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.sec.android.inputmethod/com.nuance.connect.service.ConnectClient",
+    "com.android.bluetooth/.btservice.AdapterService",
+    "com.x8bit.bitwarden/.Accessibility.AccessibilityService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.sec.epdg/.EpdgService",
+    "com.samsung.enhanceservice/.EnhanceService",
+    "com.sec.ims/.ImsTelephonyService",
+    "com.sec.imsservice/com.sec.internal.ims.entitlement.nsds.NSDSMultiSimService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.sec.enterprise.mdm.services.simpin/.EnterpriseSimPin",
+    "com.google.android.gms/.chimera.PersistentApiServiceNoInstantApps",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.PresenceService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.dsi.ant.server/.AntService",
+    "com.google.android.gms/.location.geocode.GeocodeService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.CapabilityService",
+    "com.sec.location.nsflp2/.nsmonitor.NSMonitorService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.android.bluetooth/.gatt.GattService",
+    "com.android.bluetooth/.sap.SapService",
+    "com.google.android.gms/.findmydevice.spot.bleadvertising.OfflineBeaconService_Persistent",
+    "com.google.android.gms/.nearby.sharing.SendSurfaceService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.semanticlocation.service.SemanticLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.ImsService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.samsung.sec.android.application.csc/.CscUpdateService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.trustonic.tuiservice/.TuiService",
+    "com.sec.spp.push/.PushClientService",
+    "com.sec.sve/.service.SecVideoEngineService",
+    "com.android.systemui/.SystemUIService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.samsung.android.smartface/.SmartFaceServiceStarter",
+    "com.sec.android.app.launcher/com.android.launcher3.notification.NotificationListener",
+    "com.samsung.cmh/.service.CMHService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.samsung.android.lool/com.samsung.android.sm.widgetapp.SMWidgetService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.UtService",
+    "com.samsung.android.MtpApplication/.MtpService",
+    "com.google.android.gms/.auth.trustagent.GoogleTrustAgent",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.sec.android.app.sbrowser/org.chromium.content.app.SandboxedProcessService0",
+    "com.samsung.android.fmm/com.fmm.dm.XDMService",
+    "com.android.server.telecom/.AutoCSPService",
+    "com.sec.android.app.sbrowser/org.chromium.content.app.PrivilegedProcessService0",
+    "com.android.server.telecom/.components.BluetoothPhoneService",
+    "com.google.android.gms/.fido.authenticator.service.AuthenticatorService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.android.stk/.StkAppService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "android/com.android.server.DrmEventService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.samsung.android.providers.context/.ContextService",
+    "com.google.android.gms/.crisisalerts.init.CrisisAlertsPersistentService",
+    "android/com.android.internal.backup.LocalTransportService",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.google.android.gms/.dtdi.lifecycle.LifecycleService",
+    "com.samsung.dcmservice/.DCMService",
+    "com.samsung.android.beaconmanager/.BeaconService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.VolteService2",
+    "com.android.stk2/.StkAppService",
+    "com.google.android.gms/.personalsafety.service.PersonalSafetyService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.gms/.backup.component.D2dTransportService",
+    "com.samsung.android.stickercenter/.StickerCenterService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.google.android.gms/.backup.BackupTransportService",
+    "com.sec.phone/.SecPhoneService"
+  ],
+  "width": 1440,
+  "height": 2560,
+  "views": [
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        160,
+        163,
+        165
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "ca86afb37cd217077c15191d1a6b3542",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/layout_group3_for_cover",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/layout_group3_for_cover[text]None[enabled,,]",
+      "view_str": "10baa7241ce31d0471a26dc3915ee26b",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/layout_group3_for_cover"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3,
+        4,
+        159
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_panel",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/notification_panel[text]None[enabled,,]",
+      "view_str": "0797754b537b13384b0a3bceb99274b9",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/notification_panel"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/cover_container_preview_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/cover_container_preview_root[text]None[enabled,,]",
+      "view_str": "e7dc277caa6ad16a513512af04daa24e",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/cover_container_preview_root"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_contents_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 4,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/notification_contents_root[text]None[enabled,,]",
+      "view_str": "0f0b6b9ef26109c3e2b9b7ff7bdc7b1d",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/notification_contents_root"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        63
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_container_parent",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/notification_container_parent[text]None[enabled,,]",
+      "view_str": "e45ac254b7082c411cd2d26d168d53c6",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/notification_container_parent"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/qs_frame",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/qs_frame[text]None[enabled,,]",
+      "view_str": "207ad90ccbb0a31e71d2acdbd5b82098",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/qs_frame"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8,
+        47
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          262
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/quick_settings_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "720*262",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/quick_settings_container[text]None[enabled,,]",
+      "view_str": "e1e268e0fe243d9f62b0644fd95b4c52",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/quick_settings_container"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9,
+        17,
+        20,
+        21
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          158
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/header",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "720*158",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.android.systemui:id/header[text]None[enabled,,]",
+      "view_str": "affa0842137522bec3096de73d6e88c5",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.android.systemui:id/header"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          6
+        ],
+        [
+          374,
+          82
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/date_carrier_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "326*76",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/date_carrier_container[text]None[enabled,,]",
+      "view_str": "54de28f6d44451d36061663c39507cb1",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/date_carrier_container"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          6
+        ],
+        [
+          374,
+          82
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/date_time_alarm_group",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "326*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/date_time_alarm_group[text]None[enabled,,]",
+      "view_str": "36ca75e8247ab4ba4ed66a6c223812fd",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/date_time_alarm_group"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12,
+        14,
+        16
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          25
+        ],
+        [
+          374,
+          63
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/date_time_group",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "326*38",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/date_time_group[text]None[enabled,,]",
+      "view_str": "4e4525b6c1e6b80a8967b1d06e26bc7b",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/date_time_group"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          25
+        ],
+        [
+          111,
+          63
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/clock",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "63*38",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/clock[text]None[enabled,,]",
+      "view_str": "624c9123ea7dd97861542caa190c3d28",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/clock"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "15:30",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          25
+        ],
+        [
+          111,
+          63
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/time_view",
+      "checked": false,
+      "text": "15:30",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "63*38",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/time_view[text]15:30[enabled,,]",
+      "view_str": "ac686cd04eceb830019c7af7c0b06cb1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/time_view",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "0",
+      "desc": "<p text='15:30' bound_box=48,25,111,63>15:30</p>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          111,
+          36
+        ],
+        [
+          143,
+          56
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/date_time_divider",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 14,
+      "size": "32*20",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/date_time_divider[text]None[enabled,,]",
+      "view_str": "9b7a57783817de2bcea2d2a6b1dedfba",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/date_time_divider"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          126,
+          36
+        ],
+        [
+          128,
+          56
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/date_time_divider_image",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "2*20",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/date_time_divider_image[text]None[enabled,,]",
+      "view_str": "b8a0068d188f920be05148de67f14138",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/date_time_divider_image"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          143,
+          25
+        ],
+        [
+          374,
+          63
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/date",
+      "checked": false,
+      "text": "S\u00e1b, 14 de dezembro",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 16,
+      "size": "231*38",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/date[text]S\u00e1b, 14 de dezembro[enabled,,]",
+      "view_str": "8e48cc5ca855d394c3e02a98c197a76c",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/date",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "1",
+      "desc": "<p bound_box=143,25,374,63>S\u00e1b, 14 de dezembro</p>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        18
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          466,
+          6
+        ],
+        [
+          678,
+          82
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/header_buttons_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 17,
+      "size": "212*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/header_buttons_container[text]None[enabled,,]",
+      "view_str": "d743d6eb1d4f6f141789a46cf0af2f76",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/header_buttons_container"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          610,
+          6
+        ],
+        [
+          678,
+          82
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/settings_button_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 17,
+      "temp_id": 18,
+      "size": "68*76",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/settings_button_container[text]None[enabled,,]",
+      "view_str": "d9172b72555ae8d7d029c4b1bded7c7c",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/settings_button_container"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Abrir configura\u00e7\u00f5es.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          610,
+          6
+        ],
+        [
+          678,
+          82
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/settings_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "68*76",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.android.systemui:id/settings_button[text]None[enabled,,]",
+      "view_str": "0ff91d334d0a941dd8122a90fc23652b",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.android.systemui:id/settings_button",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<button text='Abrir configura\u00e7\u00f5es.' bound_box=610,6,678,82></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          154
+        ],
+        [
+          720,
+          158
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/qs_detail_header_progress",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 20,
+      "size": "720*4",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/qs_detail_header_progress[text]None[enabled,,]",
+      "view_str": "e6c4344ece310fdf7ac9e7847ab63419",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/qs_detail_header_progress"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          38,
+          82
+        ],
+        [
+          682,
+          158
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/quick_qs_panel",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 21,
+      "size": "644*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/quick_qs_panel[text]None[enabled,,]",
+      "view_str": "421e03be6ec50b705c04ee5151fc2fd6",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/quick_qs_panel"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        23,
+        27,
+        31,
+        35,
+        39,
+        43
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          38,
+          82
+        ],
+        [
+          682,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "644*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "5e1ea87fefd84997f8c8be0bb7cde653",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        24
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          38,
+          82
+        ],
+        [
+          114,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "76*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f8bbe797fe6057cda1ef3f0243bf64c0",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          38,
+          82
+        ],
+        [
+          114,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "76*76",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4b9366da9b6f795b7a0393247541bd75",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Wi-Fi,Ligado.,TELEFUNKEN-5G,Bot\u00e3o",
+      "children": [
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          38,
+          82
+        ],
+        [
+          114,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "76*76",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "cd37dedbeb194ab0540559d4b3d4d063",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "3",
+      "desc": "<button text='Wi-Fi,Ligado.,TELEFUNKEN-5G,Bot\u00e3o' bound_box=38,82,114,158></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          38,
+          82
+        ],
+        [
+          114,
+          158
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "76*76",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "e8f543a5b1cb6e0b1c428574f6779db0",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          151,
+          82
+        ],
+        [
+          227,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 27,
+      "size": "76*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f8bbe797fe6057cda1ef3f0243bf64c0",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        29
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          151,
+          82
+        ],
+        [
+          227,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "76*76",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4b9366da9b6f795b7a0393247541bd75",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Silenciar Ligado.,Bot\u00e3o",
+      "children": [
+        30
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          151,
+          82
+        ],
+        [
+          227,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 28,
+      "temp_id": 29,
+      "size": "76*76",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "cd37dedbeb194ab0540559d4b3d4d063",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "4",
+      "desc": "<button text='Silenciar Ligado.,Bot\u00e3o' bound_box=151,82,227,158></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          151,
+          82
+        ],
+        [
+          227,
+          158
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 30,
+      "size": "76*76",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "e8f543a5b1cb6e0b1c428574f6779db0",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        32
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          264,
+          82
+        ],
+        [
+          340,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 31,
+      "size": "76*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f8bbe797fe6057cda1ef3f0243bf64c0",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        33
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          264,
+          82
+        ],
+        [
+          340,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 32,
+      "size": "76*76",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4b9366da9b6f795b7a0393247541bd75",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Bluetooth,Desligado.,Bot\u00e3o",
+      "children": [
+        34
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          264,
+          82
+        ],
+        [
+          340,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "76*76",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "cd37dedbeb194ab0540559d4b3d4d063",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "5",
+      "desc": "<button text='Bluetooth,Desligado.,Bot\u00e3o' bound_box=264,82,340,158></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          264,
+          82
+        ],
+        [
+          340,
+          158
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "76*76",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "e8f543a5b1cb6e0b1c428574f6779db0",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          378,
+          82
+        ],
+        [
+          454,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 35,
+      "size": "76*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f8bbe797fe6057cda1ef3f0243bf64c0",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        37
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          378,
+          82
+        ],
+        [
+          454,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 36,
+      "size": "76*76",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4b9366da9b6f795b7a0393247541bd75",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Rota\u00e7\u00e3o autom\u00e1tica,Desligado.,Bot\u00e3o",
+      "children": [
+        38
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          378,
+          82
+        ],
+        [
+          454,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 36,
+      "temp_id": 37,
+      "size": "76*76",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "cd37dedbeb194ab0540559d4b3d4d063",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "6",
+      "desc": "<button text='Rota\u00e7\u00e3o autom\u00e1tica,Desligado.,Bot\u00e3o' bound_box=378,82,454,158></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          378,
+          82
+        ],
+        [
+          454,
+          158
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 38,
+      "size": "76*76",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "e8f543a5b1cb6e0b1c428574f6779db0",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        40
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          492,
+          82
+        ],
+        [
+          568,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 39,
+      "size": "76*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f8bbe797fe6057cda1ef3f0243bf64c0",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        41
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          492,
+          82
+        ],
+        [
+          568,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 39,
+      "temp_id": 40,
+      "size": "76*76",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4b9366da9b6f795b7a0393247541bd75",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Lanterna,Desligado.,Bot\u00e3o",
+      "children": [
+        42
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          492,
+          82
+        ],
+        [
+          568,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 40,
+      "temp_id": 41,
+      "size": "76*76",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "cd37dedbeb194ab0540559d4b3d4d063",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "7",
+      "desc": "<button text='Lanterna,Desligado.,Bot\u00e3o' bound_box=492,82,568,158></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          492,
+          82
+        ],
+        [
+          568,
+          158
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "76*76",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "e8f543a5b1cb6e0b1c428574f6779db0",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        44
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          606,
+          82
+        ],
+        [
+          682,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 43,
+      "size": "76*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f8bbe797fe6057cda1ef3f0243bf64c0",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        45
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          606,
+          82
+        ],
+        [
+          682,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "76*76",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4b9366da9b6f795b7a0393247541bd75",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Modo,offline,Desligado.,Bot\u00e3o",
+      "children": [
+        46
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          606,
+          82
+        ],
+        [
+          682,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 44,
+      "temp_id": 45,
+      "size": "76*76",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "cd37dedbeb194ab0540559d4b3d4d063",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "8",
+      "desc": "<button text='Modo,offline,Desligado.,Bot\u00e3o' bound_box=606,82,682,158></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          606,
+          82
+        ],
+        [
+          682,
+          158
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 46,
+      "size": "76*76",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "e8f543a5b1cb6e0b1c428574f6779db0",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        48,
+        51,
+        58,
+        61
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          262
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/quick_settings_panel",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 47,
+      "size": "720*262",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/quick_settings_panel[text]None[enabled,,]",
+      "view_str": "4ece54a9a6376946ba1ebe7eadf5a948",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/quick_settings_panel"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        49,
+        50
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          94
+        ],
+        [
+          720,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 48,
+      "size": "720*64",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "b921d53dd3caafcf9f8d4ec763ba60d1",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          96
+        ],
+        [
+          622,
+          156
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/footer_text",
+      "checked": false,
+      "text": "A rede pode ser monitorada",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 49,
+      "size": "574*60",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/footer_text[text]A rede pode ser monitorada[enabled,,]",
+      "view_str": "e9a0154931002e30a2da1be93eebc144",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/footer_text"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          622,
+          94
+        ],
+        [
+          690,
+          158
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/footer_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 50,
+      "size": "68*64",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/footer_icon[text]None[enabled,,]",
+      "view_str": "fb8cbf80b82ddccb9a66e12f147d1730",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/footer_icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        52
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          158
+        ],
+        [
+          720,
+          230
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 51,
+      "size": "720*72",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "65cd724ab2686875dd23a12ef6749af9",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        53,
+        54,
+        57
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          158
+        ],
+        [
+          720,
+          230
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/brightness_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 51,
+      "temp_id": 52,
+      "size": "720*72",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/brightness_root[text]None[enabled,,]",
+      "view_str": "e993d12ab3ce04cfc8f3a92f0a733f8c",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/brightness_root"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          158
+        ],
+        [
+          98,
+          230
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/brightness_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 53,
+      "size": "50*72",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/brightness_icon[text]None[enabled,,]",
+      "view_str": "56da828663be4e287e0fa94086365bf6",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/brightness_icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Brilho da tela",
+      "children": [
+        55
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          98,
+          158
+        ],
+        [
+          622,
+          230
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/brightness_slider",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 54,
+      "size": "524*72",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.android.systemui:id/brightness_slider[text]None[enabled,,]",
+      "view_str": "581ff9627a3f41def224e055eb6b1e47",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.android.systemui:id/brightness_slider",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "9",
+      "desc": "<p text='Brilho da tela' bound_box=98,158,622,230></p>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        56
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          98,
+          158
+        ],
+        [
+          622,
+          230
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 54,
+      "temp_id": 55,
+      "size": "524*72",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "9a318bebbdcc6faf5f80e38c42e8fe76",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          98,
+          158
+        ],
+        [
+          622,
+          230
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/slider",
+      "checked": false,
+      "text": "Brilho da tela",
+      "class": "android.widget.SeekBar",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 55,
+      "temp_id": 56,
+      "size": "524*72",
+      "signature": "[class]android.widget.SeekBar[resource_id]com.android.systemui:id/slider[text]Brilho da tela[enabled,,]",
+      "view_str": "68428c5959c6ce71aafcb66663c1552a",
+      "content_free_signature": "[class]android.widget.SeekBar[resource_id]com.android.systemui:id/slider",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "10",
+      "desc": "<p bound_box=98,158,622,230>Brilho da tela</p>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Painel de configura\u00e7\u00f5es de brilho",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          622,
+          158
+        ],
+        [
+          690,
+          230
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/brightness_detail_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 57,
+      "size": "68*72",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/brightness_detail_icon[text]None[enabled,,]",
+      "view_str": "0885958edb9fba44cccf5e7a663c2ff2",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/brightness_detail_icon",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "11",
+      "desc": "<button text='Painel de configura\u00e7\u00f5es de brilho' bound_box=622,158,690,230></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        59
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          230
+        ],
+        [
+          720,
+          262
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 58,
+      "size": "720*32",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "8a71aec9c33ce192a1d7395ed22f9779",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        60
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          230
+        ],
+        [
+          720,
+          262
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 58,
+      "temp_id": 59,
+      "size": "720*32",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "6488f86a2ec35d12b745cf83184d6528",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          344,
+          243
+        ],
+        [
+          376,
+          249
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/handler_image_view",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 59,
+      "temp_id": 60,
+      "size": "32*6",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/handler_image_view[text]None[enabled,,]",
+      "view_str": "3085089802646375edbff7785793b2c7",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/handler_image_view"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        62
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          720,
+          262
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 61,
+      "size": "720*0",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "ebec09233db35f78d76675dd605a5268",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          720,
+          262
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/qs_remote_views",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 61,
+      "temp_id": 62,
+      "size": "720*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/qs_remote_views[text]None[enabled,,]",
+      "view_str": "758836c07bf3b7373f0043e36b55e36e",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/qs_remote_views"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        64,
+        85,
+        106,
+        122,
+        139,
+        151
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1216
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_stack_scroller",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 63,
+      "size": "720*1216",
+      "signature": "[class]android.widget.ScrollView[resource_id]com.android.systemui:id/notification_stack_scroller[text]None[enabled,,]",
+      "view_str": "0e7b4e8a4ae5f358255d694e0445f636",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]com.android.systemui:id/notification_stack_scroller"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        65,
+        66,
+        67,
+        68,
+        83,
+        84
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          720,
+          416
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 64,
+      "size": "720*154",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "a8d72b0a817a62b0196e9924cedd4132",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Limpar notifica\u00e7\u00e3o.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          96,
+          262
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/veto",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 65,
+      "size": "96*0",
+      "signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto[text]None[enabled,,]",
+      "view_str": "7f1f60642a4d6d22612ceadb5a98cb92",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          720,
+          262
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expandedKnox",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 66,
+      "size": "720*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox[text]None[enabled,,]",
+      "view_str": "d48c54e301ce7da84df4eb9cd93487ea",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          720,
+          583
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/backgroundNormal",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 67,
+      "size": "720*321",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal[text]None[enabled,,]",
+      "view_str": "4c099584a1ed579e19b3d5f7069e2d49",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        69
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          720,
+          583
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expanded",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 68,
+      "size": "720*321",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded[text]None[enabled,,]",
+      "view_str": "04e5fa2e53f42b8da20e5059a32d947c",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        70,
+        77,
+        82
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          720,
+          416
+        ]
+      ],
+      "resource_id": "android:id/status_bar_latest_event_content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 68,
+      "temp_id": 69,
+      "size": "720*154",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/status_bar_latest_event_content[text]None[enabled,,]",
+      "view_str": "4c5fe01ff67a2610a087b756cd53f805",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/status_bar_latest_event_content"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          720,
+          326
+        ]
+      ],
+      "resource_id": "android:id/notification_header",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 70,
+      "size": "720*64",
+      "signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header[text]None[enabled,,]",
+      "view_str": "8a63d2af2b3b52afb1a626ffca2293be",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          280
+        ],
+        [
+          76,
+          308
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 71,
+      "size": "28*28",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "28faaf1fb0fac58f965ae933038d26fb",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          88,
+          279
+        ],
+        [
+          270,
+          309
+        ]
+      ],
+      "resource_id": "android:id/app_name_text",
+      "checked": false,
+      "text": "Google Play Services",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 72,
+      "size": "182*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text[text]Google Play Services[enabled,,]",
+      "view_str": "e16595c95f67d24de42bfec19175870d",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "12",
+      "desc": "<button bound_box=88,279,270,309>Google Play Services</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          286,
+          279
+        ],
+        [
+          475,
+          309
+        ]
+      ],
+      "resource_id": "android:id/header_text",
+      "checked": false,
+      "text": "jrrhack@gmail.com",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 73,
+      "size": "189*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/header_text[text]jrrhack@gmail.com[enabled,,]",
+      "view_str": "6344a0a95b1bef2f0d84f1bcb00c9ea6",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/header_text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "13",
+      "desc": "<button bound_box=286,279,475,309>jrrhack@gmail.com</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          495,
+          279
+        ],
+        [
+          500,
+          309
+        ]
+      ],
+      "resource_id": "android:id/time_divider",
+      "checked": false,
+      "text": "|",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 74,
+      "size": "5*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/time_divider[text]|[enabled,,]",
+      "view_str": "365113a0f551c9e48047145dfd8b88f5",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/time_divider",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "14",
+      "desc": "<button bound_box=495,279,500,309>|</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          520,
+          279
+        ],
+        [
+          624,
+          309
+        ]
+      ],
+      "resource_id": "android:id/time",
+      "checked": false,
+      "text": "07/12/2024",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 75,
+      "size": "104*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/time[text]07/12/2024[enabled,,]",
+      "view_str": "1fa71cd7b4f765f5bb5275b4a18d824d",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/time",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "15",
+      "desc": "<button bound_box=520,279,624,309>07/12/2024</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Expandir",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          600,
+          246
+        ],
+        [
+          696,
+          342
+        ]
+      ],
+      "resource_id": "android:id/expand_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 76,
+      "size": "96*96",
+      "signature": "[class]android.widget.Button[resource_id]android:id/expand_button[text]None[enabled,,]",
+      "view_str": "50c3d0701a333156e3e3350b8e65c277",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/expand_button",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "16",
+      "desc": "<button text='Expandir' bound_box=600,246,696,342></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        78,
+        80,
+        81
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          318
+        ],
+        [
+          672,
+          400
+        ]
+      ],
+      "resource_id": "android:id/notification_main_column",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 77,
+      "size": "624*82",
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_main_column[text]None[enabled,,]",
+      "view_str": "a810bea207cd3ba7d5a8ae27d6abfe39",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_main_column"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        79
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          318
+        ],
+        [
+          560,
+          359
+        ]
+      ],
+      "resource_id": "android:id/line1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 77,
+      "temp_id": 78,
+      "size": "512*41",
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/line1[text]None[enabled,,]",
+      "view_str": "9bc031d9fe9c394705e88c145b5f20f6",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/line1"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          318
+        ],
+        [
+          560,
+          359
+        ]
+      ],
+      "resource_id": "android:id/title",
+      "checked": false,
+      "text": "Alerta de seguran\u00e7a",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 78,
+      "temp_id": 79,
+      "size": "512*41",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/title[text]Alerta de seguran\u00e7a[enabled,,]",
+      "view_str": "a4d17ed46ad8f0dc42ba8a7130fdb0ec",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/title",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "17",
+      "desc": "<button bound_box=48,318,560,359>Alerta de seguran\u00e7a</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          359
+        ],
+        [
+          560,
+          395
+        ]
+      ],
+      "resource_id": "android:id/text",
+      "checked": false,
+      "text": "Agora, o Google Drive for desktop pode acessar sua Conta do Google jrrhack@gmail.com",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 77,
+      "temp_id": 80,
+      "size": "512*36",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text[text]None[enabled,,]",
+      "view_str": "cbea41a475c210cad55448f941b41686",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "18",
+      "desc": "<button bound_box=48,359,560,395>Agora, o Google Drive for desktop pode acessar sua Conta do Google jrrhack@gmail.com</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          399
+        ],
+        [
+          672,
+          399
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 77,
+      "temp_id": 81,
+      "size": "624*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "e4428ad3b868d8048364a800b912a8b4",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          602,
+          324
+        ],
+        [
+          672,
+          394
+        ]
+      ],
+      "resource_id": "android:id/right_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 82,
+      "size": "70*70",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/right_icon[text]None[enabled,,]",
+      "view_str": "14fe63e25dbe2d8f05dea9c10078dfee",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/right_icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          262
+        ],
+        [
+          720,
+          583
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/fake_shadow",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 83,
+      "size": "720*321",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow[text]None[enabled,,]",
+      "view_str": "6d11ba91c8a62eaee5a0541bfa902511",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          583
+        ],
+        [
+          720,
+          583
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_knox_badge",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 84,
+      "size": "0*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge[text]None[enabled,,]",
+      "view_str": "ec669cd6dab185706fa4c9d50a2bf671",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        86,
+        87,
+        88,
+        89,
+        104,
+        105
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          417
+        ],
+        [
+          720,
+          571
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 85,
+      "size": "720*154",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "a8d72b0a817a62b0196e9924cedd4132",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Limpar notifica\u00e7\u00e3o.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          417
+        ],
+        [
+          96,
+          417
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/veto",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 85,
+      "temp_id": 86,
+      "size": "96*0",
+      "signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto[text]None[enabled,,]",
+      "view_str": "7f1f60642a4d6d22612ceadb5a98cb92",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          417
+        ],
+        [
+          720,
+          417
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expandedKnox",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 85,
+      "temp_id": 87,
+      "size": "720*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox[text]None[enabled,,]",
+      "view_str": "d48c54e301ce7da84df4eb9cd93487ea",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          417
+        ],
+        [
+          720,
+          700
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/backgroundNormal",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 85,
+      "temp_id": 88,
+      "size": "720*283",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal[text]None[enabled,,]",
+      "view_str": "4c099584a1ed579e19b3d5f7069e2d49",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        90
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          417
+        ],
+        [
+          720,
+          700
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expanded",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 85,
+      "temp_id": 89,
+      "size": "720*283",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded[text]None[enabled,,]",
+      "view_str": "04e5fa2e53f42b8da20e5059a32d947c",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        91,
+        98,
+        103
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          417
+        ],
+        [
+          720,
+          571
+        ]
+      ],
+      "resource_id": "android:id/status_bar_latest_event_content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 89,
+      "temp_id": 90,
+      "size": "720*154",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/status_bar_latest_event_content[text]None[enabled,,]",
+      "view_str": "4c5fe01ff67a2610a087b756cd53f805",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/status_bar_latest_event_content"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          417
+        ],
+        [
+          720,
+          481
+        ]
+      ],
+      "resource_id": "android:id/notification_header",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 91,
+      "size": "720*64",
+      "signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header[text]None[enabled,,]",
+      "view_str": "6fb79cea261902e5f5c308d02fb01711",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          435
+        ],
+        [
+          76,
+          463
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 92,
+      "size": "28*28",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "28faaf1fb0fac58f965ae933038d26fb",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          88,
+          434
+        ],
+        [
+          232,
+          464
+        ]
+      ],
+      "resource_id": "android:id/app_name_text",
+      "checked": false,
+      "text": "Google Play Services",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 93,
+      "size": "144*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text[text]Google Play Services[enabled,,]",
+      "view_str": "e16595c95f67d24de42bfec19175870d",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "19",
+      "desc": "<button bound_box=88,434,232,464>Google Play Services</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          248,
+          434
+        ],
+        [
+          475,
+          464
+        ]
+      ],
+      "resource_id": "android:id/header_text",
+      "checked": false,
+      "text": "bluelemon.jh@gmail.com",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 94,
+      "size": "227*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/header_text[text]bluelemon.jh@gmail.com[enabled,,]",
+      "view_str": "59eeda0ca3bdb77f0092e53ccecfef37",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/header_text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "20",
+      "desc": "<button bound_box=248,434,475,464>bluelemon.jh@gmail.com</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          495,
+          434
+        ],
+        [
+          500,
+          464
+        ]
+      ],
+      "resource_id": "android:id/time_divider",
+      "checked": false,
+      "text": "|",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 95,
+      "size": "5*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/time_divider[text]|[enabled,,]",
+      "view_str": "365113a0f551c9e48047145dfd8b88f5",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/time_divider",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "21",
+      "desc": "<button bound_box=495,434,500,464>|</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          520,
+          434
+        ],
+        [
+          624,
+          464
+        ]
+      ],
+      "resource_id": "android:id/time",
+      "checked": false,
+      "text": "16/11/2024",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 96,
+      "size": "104*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/time[text]16/11/2024[enabled,,]",
+      "view_str": "f56ea66ef610f3e9e8f96439d1190ee9",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/time",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "22",
+      "desc": "<button bound_box=520,434,624,464>16/11/2024</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Expandir",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          600,
+          401
+        ],
+        [
+          696,
+          497
+        ]
+      ],
+      "resource_id": "android:id/expand_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 97,
+      "size": "96*96",
+      "signature": "[class]android.widget.Button[resource_id]android:id/expand_button[text]None[enabled,,]",
+      "view_str": "50c3d0701a333156e3e3350b8e65c277",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/expand_button",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "23",
+      "desc": "<button text='Expandir' bound_box=600,401,696,497></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        99,
+        101,
+        102
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          473
+        ],
+        [
+          672,
+          555
+        ]
+      ],
+      "resource_id": "android:id/notification_main_column",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 98,
+      "size": "624*82",
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_main_column[text]None[enabled,,]",
+      "view_str": "9d5c5ca8786232f9bdcabd59412e14a6",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_main_column"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        100
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          473
+        ],
+        [
+          560,
+          514
+        ]
+      ],
+      "resource_id": "android:id/line1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 99,
+      "size": "512*41",
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/line1[text]None[enabled,,]",
+      "view_str": "f81b1d883be90419f05da1160a2fd259",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/line1"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          473
+        ],
+        [
+          560,
+          514
+        ]
+      ],
+      "resource_id": "android:id/title",
+      "checked": false,
+      "text": "Novo login no Mac",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 99,
+      "temp_id": 100,
+      "size": "512*41",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/title[text]Novo login no Mac[enabled,,]",
+      "view_str": "e49862b292ba0871be858cb272bbe485",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/title",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "24",
+      "desc": "<button bound_box=48,473,560,514>Novo login no Mac</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          514
+        ],
+        [
+          560,
+          550
+        ]
+      ],
+      "resource_id": "android:id/text",
+      "checked": false,
+      "text": "Sua Conta do Google foi acessada no",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 101,
+      "size": "512*36",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text[text]Sua Conta do Google foi acessada no[enabled,,]",
+      "view_str": "f77dc27d4a66d0b234b01f58c77fc3ad",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "25",
+      "desc": "<button bound_box=48,514,560,550>Sua Conta do Google foi acessada no</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          554
+        ],
+        [
+          672,
+          554
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 102,
+      "size": "624*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "e4428ad3b868d8048364a800b912a8b4",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          602,
+          479
+        ],
+        [
+          672,
+          549
+        ]
+      ],
+      "resource_id": "android:id/right_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 90,
+      "temp_id": 103,
+      "size": "70*70",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/right_icon[text]None[enabled,,]",
+      "view_str": "14fe63e25dbe2d8f05dea9c10078dfee",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/right_icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          417
+        ],
+        [
+          720,
+          700
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/fake_shadow",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 85,
+      "temp_id": 104,
+      "size": "720*283",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow[text]None[enabled,,]",
+      "view_str": "6d11ba91c8a62eaee5a0541bfa902511",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          700
+        ],
+        [
+          720,
+          700
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_knox_badge",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 85,
+      "temp_id": 105,
+      "size": "0*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge[text]None[enabled,,]",
+      "view_str": "ec669cd6dab185706fa4c9d50a2bf671",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        107,
+        108,
+        109,
+        110,
+        120,
+        121
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          572
+        ],
+        [
+          720,
+          725
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 106,
+      "size": "720*153",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "a8d72b0a817a62b0196e9924cedd4132",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Limpar notifica\u00e7\u00e3o.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          572
+        ],
+        [
+          96,
+          572
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/veto",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 106,
+      "temp_id": 107,
+      "size": "96*0",
+      "signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto[text]None[enabled,,]",
+      "view_str": "7f1f60642a4d6d22612ceadb5a98cb92",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          572
+        ],
+        [
+          720,
+          572
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expandedKnox",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 106,
+      "temp_id": 108,
+      "size": "720*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox[text]None[enabled,,]",
+      "view_str": "d48c54e301ce7da84df4eb9cd93487ea",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          572
+        ],
+        [
+          720,
+          753
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/backgroundNormal",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 106,
+      "temp_id": 109,
+      "size": "720*181",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal[text]None[enabled,,]",
+      "view_str": "4c099584a1ed579e19b3d5f7069e2d49",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        111
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          572
+        ],
+        [
+          720,
+          753
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expanded",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 106,
+      "temp_id": 110,
+      "size": "720*181",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded[text]None[enabled,,]",
+      "view_str": "04e5fa2e53f42b8da20e5059a32d947c",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        112,
+        115
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          572
+        ],
+        [
+          720,
+          725
+        ]
+      ],
+      "resource_id": "android:id/status_bar_latest_event_content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 110,
+      "temp_id": 111,
+      "size": "720*153",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/status_bar_latest_event_content[text]None[enabled,,]",
+      "view_str": "fa710e97537637ce0004b5937e27c599",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/status_bar_latest_event_content"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        113,
+        114
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          572
+        ],
+        [
+          720,
+          636
+        ]
+      ],
+      "resource_id": "android:id/notification_header",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 111,
+      "temp_id": 112,
+      "size": "720*64",
+      "signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header[text]None[enabled,,]",
+      "view_str": "d6657da4d2131fb6865ba8ca63affbdd",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          590
+        ],
+        [
+          76,
+          618
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 112,
+      "temp_id": 113,
+      "size": "28*28",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "28faaf1fb0fac58f965ae933038d26fb",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          88,
+          589
+        ],
+        [
+          264,
+          619
+        ]
+      ],
+      "resource_id": "android:id/app_name_text",
+      "checked": false,
+      "text": "Samsung account",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 112,
+      "temp_id": 114,
+      "size": "176*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text[text]Samsung account[enabled,,]",
+      "view_str": "d5476d29f48491fa6c699f1749a3c7d4",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "26",
+      "desc": "<button bound_box=88,589,264,619>Samsung account</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        116
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          628
+        ],
+        [
+          720,
+          725
+        ]
+      ],
+      "resource_id": "android:id/notification_action_list_margin_target",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 111,
+      "temp_id": 115,
+      "size": "720*97",
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_action_list_margin_target[text]None[enabled,,]",
+      "view_str": "337a3e49113563ad0f1de471f122d463",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_action_list_margin_target"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        117,
+        119
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          628
+        ],
+        [
+          720,
+          721
+        ]
+      ],
+      "resource_id": "android:id/notification_main_column",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 115,
+      "temp_id": 116,
+      "size": "720*93",
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_main_column[text]None[enabled,,]",
+      "view_str": "66d9179670d15eb71f3f65a08ed95837",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_main_column"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        118
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          628
+        ],
+        [
+          672,
+          669
+        ]
+      ],
+      "resource_id": "android:id/line1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 116,
+      "temp_id": 117,
+      "size": "624*41",
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/line1[text]None[enabled,,]",
+      "view_str": "b3a436f3e5744063185f9bfa9efc8645",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/line1"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          628
+        ],
+        [
+          672,
+          669
+        ]
+      ],
+      "resource_id": "android:id/title",
+      "checked": false,
+      "text": "Samsung account",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 117,
+      "temp_id": 118,
+      "size": "624*41",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/title[text]Samsung account[enabled,,]",
+      "view_str": "6bb0cbb492fbaf049edec31476f56591",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/title",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "27",
+      "desc": "<button bound_box=48,628,672,669>Samsung account</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          669
+        ],
+        [
+          672,
+          721
+        ]
+      ],
+      "resource_id": "android:id/big_text",
+      "checked": false,
+      "text": "Sess\u00e3o expirou.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 116,
+      "temp_id": 119,
+      "size": "624*52",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/big_text[text]Sess\u00e3o expirou.[enabled,,]",
+      "view_str": "10153338e4168d5954d8893709c17a8b",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/big_text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "28",
+      "desc": "<button bound_box=48,669,672,721>Sess\u00e3o expirou.</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          572
+        ],
+        [
+          720,
+          753
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/fake_shadow",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 106,
+      "temp_id": 120,
+      "size": "720*181",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow[text]None[enabled,,]",
+      "view_str": "6d11ba91c8a62eaee5a0541bfa902511",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          753
+        ],
+        [
+          720,
+          753
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_knox_badge",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 106,
+      "temp_id": 121,
+      "size": "0*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge[text]None[enabled,,]",
+      "view_str": "ec669cd6dab185706fa4c9d50a2bf671",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        123,
+        124,
+        125,
+        126,
+        137,
+        138
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          726
+        ],
+        [
+          720,
+          879
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 122,
+      "size": "720*153",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "a8d72b0a817a62b0196e9924cedd4132",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Limpar notifica\u00e7\u00e3o.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          726
+        ],
+        [
+          96,
+          726
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/veto",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 123,
+      "size": "96*0",
+      "signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto[text]None[enabled,,]",
+      "view_str": "7f1f60642a4d6d22612ceadb5a98cb92",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          726
+        ],
+        [
+          720,
+          726
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expandedKnox",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 124,
+      "size": "720*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox[text]None[enabled,,]",
+      "view_str": "d48c54e301ce7da84df4eb9cd93487ea",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          726
+        ],
+        [
+          720,
+          983
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/backgroundNormal",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 125,
+      "size": "720*257",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal[text]None[enabled,,]",
+      "view_str": "4c099584a1ed579e19b3d5f7069e2d49",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        127
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          726
+        ],
+        [
+          720,
+          983
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expanded",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 126,
+      "size": "720*257",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded[text]None[enabled,,]",
+      "view_str": "04e5fa2e53f42b8da20e5059a32d947c",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        128,
+        132
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          726
+        ],
+        [
+          720,
+          879
+        ]
+      ],
+      "resource_id": "android:id/status_bar_latest_event_content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 126,
+      "temp_id": 127,
+      "size": "720*153",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/status_bar_latest_event_content[text]None[enabled,,]",
+      "view_str": "69010a7c4dcdf553627c9235816edb13",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/status_bar_latest_event_content"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        129,
+        130,
+        131
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          726
+        ],
+        [
+          720,
+          790
+        ]
+      ],
+      "resource_id": "android:id/notification_header",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 127,
+      "temp_id": 128,
+      "size": "720*64",
+      "signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header[text]None[enabled,,]",
+      "view_str": "9e92670031fe9457e2c7d2bffc2238c3",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          744
+        ],
+        [
+          76,
+          772
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 128,
+      "temp_id": 129,
+      "size": "28*28",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "28faaf1fb0fac58f965ae933038d26fb",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          88,
+          743
+        ],
+        [
+          260,
+          773
+        ]
+      ],
+      "resource_id": "android:id/app_name_text",
+      "checked": false,
+      "text": "SecurityLogAgent",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 128,
+      "temp_id": 130,
+      "size": "172*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text[text]SecurityLogAgent[enabled,,]",
+      "view_str": "21b3539fdbf26e1687d5c8da1f1780ec",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "29",
+      "desc": "<button bound_box=88,743,260,773>SecurityLogAgent</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Expandir",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          236,
+          710
+        ],
+        [
+          332,
+          806
+        ]
+      ],
+      "resource_id": "android:id/expand_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 128,
+      "temp_id": 131,
+      "size": "96*96",
+      "signature": "[class]android.widget.Button[resource_id]android:id/expand_button[text]None[enabled,,]",
+      "view_str": "50c3d0701a333156e3e3350b8e65c277",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/expand_button",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "30",
+      "desc": "<button text='Expandir' bound_box=236,710,332,806></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        133,
+        135,
+        136
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          782
+        ],
+        [
+          672,
+          863
+        ]
+      ],
+      "resource_id": "android:id/notification_main_column",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 127,
+      "temp_id": 132,
+      "size": "624*81",
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_main_column[text]None[enabled,,]",
+      "view_str": "a810bea207cd3ba7d5a8ae27d6abfe39",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/notification_main_column"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        134
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          782
+        ],
+        [
+          672,
+          823
+        ]
+      ],
+      "resource_id": "android:id/line1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 132,
+      "temp_id": 133,
+      "size": "624*41",
+      "signature": "[class]android.widget.LinearLayout[resource_id]android:id/line1[text]None[enabled,,]",
+      "view_str": "2f18831cb25e3108885978c6e21728a7",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]android:id/line1"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          782
+        ],
+        [
+          672,
+          823
+        ]
+      ],
+      "resource_id": "android:id/title",
+      "checked": false,
+      "text": "Enviar relat. segur.",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 133,
+      "temp_id": 134,
+      "size": "624*41",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/title[text]Enviar relat. segur.[enabled,,]",
+      "view_str": "b99bbf98dcff00eb4a686b8aa2a847dd",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/title",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "31",
+      "desc": "<button bound_box=48,782,672,823>Enviar relat. segur.</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          823
+        ],
+        [
+          672,
+          859
+        ]
+      ],
+      "resource_id": "android:id/text",
+      "checked": false,
+      "text": "Ajude a proteger seu dispositivo enviando relat\u00f3rios de seguran\u00e7a para Samsung",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 132,
+      "temp_id": 135,
+      "size": "624*36",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text[text]None[enabled,,]",
+      "view_str": "cbea41a475c210cad55448f941b41686",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "32",
+      "desc": "<button bound_box=48,823,672,859>Ajude a proteger seu dispositivo enviando relat\u00f3rios de seguran\u00e7a para Samsung</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          863
+        ],
+        [
+          672,
+          863
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 132,
+      "temp_id": 136,
+      "size": "624*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "e4428ad3b868d8048364a800b912a8b4",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          726
+        ],
+        [
+          720,
+          983
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/fake_shadow",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 137,
+      "size": "720*257",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow[text]None[enabled,,]",
+      "view_str": "6d11ba91c8a62eaee5a0541bfa902511",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          983
+        ],
+        [
+          720,
+          983
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_knox_badge",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 122,
+      "temp_id": 138,
+      "size": "0*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge[text]None[enabled,,]",
+      "view_str": "ec669cd6dab185706fa4c9d50a2bf671",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        140,
+        141,
+        142,
+        143,
+        149,
+        150
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          880
+        ],
+        [
+          720,
+          952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 139,
+      "size": "720*72",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "a8d72b0a817a62b0196e9924cedd4132",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Limpar notifica\u00e7\u00e3o.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          880
+        ],
+        [
+          96,
+          880
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/veto",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 139,
+      "temp_id": 140,
+      "size": "96*0",
+      "signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto[text]None[enabled,,]",
+      "view_str": "7f1f60642a4d6d22612ceadb5a98cb92",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.android.systemui:id/veto"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          880
+        ],
+        [
+          720,
+          880
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expandedKnox",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 139,
+      "temp_id": 141,
+      "size": "720*0",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox[text]None[enabled,,]",
+      "view_str": "d48c54e301ce7da84df4eb9cd93487ea",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expandedKnox"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          880
+        ],
+        [
+          720,
+          1061
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/backgroundNormal",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 139,
+      "temp_id": 142,
+      "size": "720*181",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal[text]None[enabled,,]",
+      "view_str": "4c099584a1ed579e19b3d5f7069e2d49",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        144
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          880
+        ],
+        [
+          720,
+          1061
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/expanded",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 139,
+      "temp_id": 143,
+      "size": "720*181",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded[text]None[enabled,,]",
+      "view_str": "87c3d9b788f6ae146ba74b0e8331253b",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/expanded"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        145,
+        146,
+        147,
+        148
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          880
+        ],
+        [
+          720,
+          952
+        ]
+      ],
+      "resource_id": "android:id/notification_header",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 143,
+      "temp_id": 144,
+      "size": "720*72",
+      "signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header[text]None[enabled,,]",
+      "view_str": "c8c996a54c800776b9505f095cd6033a",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]android:id/notification_header"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          48,
+          902
+        ],
+        [
+          76,
+          930
+        ]
+      ],
+      "resource_id": "android:id/icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 144,
+      "temp_id": 145,
+      "size": "28*28",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/icon[text]None[enabled,,]",
+      "view_str": "3516a1e8be5628433cd957d2aebf4367",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/icon"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          88,
+          901
+        ],
+        [
+          247,
+          931
+        ]
+      ],
+      "resource_id": "android:id/app_name_text",
+      "checked": false,
+      "text": "Sistema Android",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 144,
+      "temp_id": 146,
+      "size": "159*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text[text]Sistema Android[enabled,,]",
+      "view_str": "cde4804f912cca105bdca26e248358ef",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/app_name_text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "33",
+      "desc": "<button bound_box=88,901,247,931>Sistema Android</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          263,
+          901
+        ],
+        [
+          570,
+          931
+        ]
+      ],
+      "resource_id": "android:id/header_text",
+      "checked": false,
+      "text": "USB para transfer\u00ean. de arquivo",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 144,
+      "temp_id": 147,
+      "size": "307*30",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/header_text[text]USB para transfer\u00ean. de arquivo[enabled,,]",
+      "view_str": "a6994159ec146305e745fb3ec22fa4da",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/header_text",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "34",
+      "desc": "<button bound_box=263,901,570,931>USB para transfer\u00ean. de arquivo</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Expandir",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          546,
+          868
+        ],
+        [
+          642,
+          964
+        ]
+      ],
+      "resource_id": "android:id/expand_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 144,
+      "temp_id": 148,
+      "size": "96*96",
+      "signature": "[class]android.widget.Button[resource_id]android:id/expand_button[text]None[enabled,,]",
+      "view_str": "bf740dc65649ba23015a3d61551d6fdd",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/expand_button",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "35",
+      "desc": "<button text='Expandir' bound_box=546,868,642,964></button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          880
+        ],
+        [
+          720,
+          1061
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/fake_shadow",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 139,
+      "temp_id": 149,
+      "size": "720*181",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow[text]None[enabled,,]",
+      "view_str": "6d11ba91c8a62eaee5a0541bfa902511",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          1061
+        ],
+        [
+          720,
+          1061
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_knox_badge",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 139,
+      "temp_id": 150,
+      "size": "0*0",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge[text]None[enabled,,]",
+      "view_str": "ec669cd6dab185706fa4c9d50a2bf671",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/notification_knox_badge"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          952
+        ],
+        [
+          720,
+          1016
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 151,
+      "size": "720*64",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "b3ba7c9bbdcf17f9deb680b758762456",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          952
+        ],
+        [
+          720,
+          1016
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/backgroundNormal",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 151,
+      "temp_id": 152,
+      "size": "720*64",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal[text]None[enabled,,]",
+      "view_str": "4c099584a1ed579e19b3d5f7069e2d49",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/backgroundNormal"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          952
+        ],
+        [
+          720,
+          1016
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 151,
+      "temp_id": 153,
+      "size": "720*64",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/content[text]None[enabled,,]",
+      "view_str": "94ec447c821e8487b5fd251327082844",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/content"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          952
+        ],
+        [
+          720,
+          1016
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/fake_shadow",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 151,
+      "temp_id": 154,
+      "size": "720*64",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow[text]None[enabled,,]",
+      "view_str": "6d11ba91c8a62eaee5a0541bfa902511",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/fake_shadow"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          952
+        ],
+        [
+          720,
+          953
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_shelf_divider",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 151,
+      "temp_id": 155,
+      "size": "720*1",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/notification_shelf_divider[text]None[enabled,,]",
+      "view_str": "dd719106c94245376e4be2cbf22ba765",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/notification_shelf_divider"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        157,
+        158
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          276,
+          952
+        ],
+        [
+          720,
+          1016
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_shelf_text_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 151,
+      "temp_id": 156,
+      "size": "444*64",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/notification_shelf_text_area[text]None[enabled,,]",
+      "view_str": "19a05f2e86cb5cbe0a62faf5bdf8e9c5",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/notification_shelf_text_area"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Config. notifica\u00e7\u00e3o,Bot\u00e3o",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          276,
+          952
+        ],
+        [
+          533,
+          1016
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/noti_setting",
+      "checked": false,
+      "text": "CONFIG. NOTIFICA\u00c7\u00c3O",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 156,
+      "temp_id": 157,
+      "size": "257*64",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/noti_setting[text]CONFIG. NOTIFICA\u00c7\u00c3O[enabled,,]",
+      "view_str": "ea4d4ce0aa70507d7a85df71b3c5bff0",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/noti_setting",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "36",
+      "desc": "<button text='Config. notifica\u00e7\u00e3o,Bot\u00e3o' bound_box=276,952,533,1016>CONFIG. NOTIFICA\u00c7\u00c3O</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Apagar,Bot\u00e3o",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          577,
+          952
+        ],
+        [
+          680,
+          1016
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/clear_all",
+      "checked": false,
+      "text": "APAGAR",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 156,
+      "temp_id": 158,
+      "size": "103*64",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/clear_all[text]APAGAR[enabled,,]",
+      "view_str": "7695f39635977c2ff132527e2df469db",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/clear_all",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "37",
+      "desc": "<button text='Apagar,Bot\u00e3o' bound_box=577,952,680,1016>APAGAR</button>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1220
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_panel_carrier_label",
+      "checked": false,
+      "text": "Somente chamadas de emerg\u00eancia",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 159,
+      "size": "720*60",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/notification_panel_carrier_label[text]Somente chamadas de emerg\u00eancia[enabled,,]",
+      "view_str": "220316a5cbb0c57897ea3e2169b0c45e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/notification_panel_carrier_label",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "38",
+      "desc": "<p bound_box=0,1220,720,1280>Somente chamadas de emerg\u00eancia</p>"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        161,
+        162
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/layout_group1_for_cover",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 160,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/layout_group1_for_cover[text]None[enabled,,]",
+      "view_str": "b378956782246f1797187c620e797da4",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/layout_group1_for_cover"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/scrim_behind",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 160,
+      "temp_id": 161,
+      "size": "720*1280",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/scrim_behind[text]None[enabled,,]",
+      "view_str": "5e9a912d109d8fd219d324352b586cb7",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/scrim_behind"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          500
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/heads_up_scrim",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 160,
+      "temp_id": 162,
+      "size": "720*500",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/heads_up_scrim[text]None[enabled,,]",
+      "view_str": "4a9458e48ae5514627297ec359d2ea59",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/heads_up_scrim"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        164
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/layout_group2_for_cover",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 163,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/layout_group2_for_cover[text]None[enabled,,]",
+      "view_str": "a2f55b30020222e0b567d3fee94530fe",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/layout_group2_for_cover"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/scrim_in_front",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 163,
+      "temp_id": 164,
+      "size": "720*1280",
+      "signature": "[class]android.view.View[resource_id]com.android.systemui:id/scrim_in_front[text]None[enabled,,]",
+      "view_str": "9577315930ce2998e9b2994730f6fa72",
+      "content_free_signature": "[class]android.view.View[resource_id]com.android.systemui:id/scrim_in_front"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        166
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          48
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/status_bar_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 165,
+      "size": "720*48",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/status_bar_container[text]None[enabled,,]",
+      "view_str": "d114f83334ae57dcffa0814c9a3057f9",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/status_bar_container"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        167,
+        169
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          48
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/status_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 165,
+      "temp_id": 166,
+      "size": "720*48",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/status_bar[text]None[enabled,,]",
+      "view_str": "08c820dcbd29576c491546d0a5ca32e7",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/status_bar"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        168
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          48
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/status_bar_contents",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 166,
+      "temp_id": 167,
+      "size": "720*48",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/status_bar_contents[text]None[enabled,,]",
+      "view_str": "6cf717bd28efd6666200aac04266680d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.android.systemui:id/status_bar_contents"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          12,
+          0
+        ],
+        [
+          429,
+          47
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/notification_icon_area",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 167,
+      "temp_id": 168,
+      "size": "417*47",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/notification_icon_area[text]None[enabled,,]",
+      "view_str": "7be4da00b4e0781fc6732a9af8ea2ae2",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/notification_icon_area"
+    },
+    {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          48
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/background",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 166,
+      "temp_id": 169,
+      "size": "720*48",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/background[text]None[enabled,,]",
+      "view_str": "d186e3d7347b5636de9bab5b2f06de8f",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.android.systemui:id/background"
+    }
+  ]
+}

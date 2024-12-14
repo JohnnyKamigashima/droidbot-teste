@@ -1,0 +1,56 @@
+{
+  "tag": "2024-12-14_152101",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "TELEFUNKEN5G, Etiqueta de bot\u00e3o, Toque duas vezes para ver as configura\u00e7\u00f5es r\u00e1pidas relevantes.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          20,
+          204
+        ],
+        [
+          160,
+          270
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/tile_label",
+      "checked": false,
+      "text": "TELEFUNKEN-5G",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 34,
+      "temp_id": 35,
+      "size": "140*66",
+      "signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/tile_label[text]TELEFUNKEN-5G[enabled,,]",
+      "view_str": "3d4340525413bc2ea3056bbf9fc3475a",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.android.systemui:id/tile_label",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "6",
+      "desc": "<button text='TELEFUNKEN5G, Etiqueta de bot\u00e3o, Toque duas vezes para ver as configura\u00e7\u00f5es r\u00e1pidas relevantes.' bound_box=20,204,160,270>TELEFUNKEN-5G</button>"
+    }
+  },
+  "start_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "stop_state": "b9674974388e2d1e265e96afecd8b6a0",
+  "event_str": "TouchEvent(state=dbc76f543e3b7b78293fbda4195cdcac, view=3d4340525413bc2ea3056bbf9fc3475a(MainActivity/TextView-TELEFUNKEN))"
+}

@@ -1,0 +1,49 @@
+{
+  "tag": "2024-12-14_151809",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.lojinha",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          545
+        ],
+        [
+          688,
+          656
+        ]
+      ],
+      "resource_id": "com.lojinha:id/textinput_placeholder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 16,
+      "size": "656*111",
+      "signature": "[class]android.widget.TextView[resource_id]com.lojinha:id/textinput_placeholder[text]None[enabled,,]",
+      "view_str": "47036ddbd8504698bd3ede73ae156c3d",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.lojinha:id/textinput_placeholder"
+    }
+  },
+  "start_state": "de2afd80035e87971a2c3b123dce062b",
+  "stop_state": "de2afd80035e87971a2c3b123dce062b",
+  "event_str": "TouchEvent(state=de2afd80035e87971a2c3b123dce062b, view=47036ddbd8504698bd3ede73ae156c3d(MainActivity/TextView-))"
+}

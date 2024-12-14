@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_150641",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          280
+        ],
+        [
+          349,
+          313
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/tvPeriod",
+      "checked": false,
+      "text": "08 dez, 2024 - 14 dez, 2024",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 22,
+      "size": "288*33",
+      "signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvPeriod[text]08 dez, 2024 - 14 dez, 2024[enabled,,]",
+      "view_str": "ce1516b107f7c867a1aafeaa90b5fe8b",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvPeriod",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "5",
+      "desc": "<button bound_box=61,280,349,313>08 dez, 2024 - 14 dez, 2024</button>"
+    }
+  },
+  "start_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "stop_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "event_str": "TouchEvent(state=7775cfa1e5944d3b7f0960580ab34ff8, view=ce1516b107f7c867a1aafeaa90b5fe8b(MainActivity/TextView-08 dez, 20))"
+}

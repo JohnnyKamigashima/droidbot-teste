@@ -1,0 +1,51 @@
+{
+  "tag": "2024-12-14_152112",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        24
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          38,
+          82
+        ],
+        [
+          114,
+          158
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "76*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "d903c47c2bef6ee6fc96bfdbcb1f31b9",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    }
+  },
+  "start_state": "b9674974388e2d1e265e96afecd8b6a0",
+  "stop_state": "b9674974388e2d1e265e96afecd8b6a0",
+  "event_str": "TouchEvent(state=b9674974388e2d1e265e96afecd8b6a0, view=d903c47c2bef6ee6fc96bfdbcb1f31b9(MainActivity/LinearLayout-))"
+}

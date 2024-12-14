@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_150736",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "android",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          54,
+          675
+        ],
+        [
+          666,
+          763
+        ]
+      ],
+      "resource_id": "android:id/aerr_close",
+      "checked": false,
+      "text": "Fechar o aplicativo",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "612*88",
+      "signature": "[class]android.widget.Button[resource_id]android:id/aerr_close[text]Fechar o aplicativo[enabled,,]",
+      "view_str": "deb5906b25b5bd374de810e1965e59db",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/aerr_close",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "1",
+      "desc": "<button bound_box=54,675,666,763>Fechar o aplicativo</button>"
+    }
+  },
+  "start_state": "02cbcd61b92a7e97e8092c0466ae3535",
+  "stop_state": "02cbcd61b92a7e97e8092c0466ae3535",
+  "event_str": "TouchEvent(state=02cbcd61b92a7e97e8092c0466ae3535, view=deb5906b25b5bd374de810e1965e59db(MainActivity/Button-Fechar o a))"
+}

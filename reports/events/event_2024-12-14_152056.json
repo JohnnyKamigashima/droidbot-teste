@@ -1,0 +1,51 @@
+{
+  "tag": "2024-12-14_152056",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        34
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          20,
+          188
+        ],
+        [
+          160,
+          288
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 27,
+      "temp_id": 33,
+      "size": "140*100",
+      "signature": "[class]android.widget.Button[resource_id]None[text]None[enabled,,]",
+      "view_str": "97f7d2a3236673511ce8ded9651ffeb3",
+      "content_free_signature": "[class]android.widget.Button[resource_id]None"
+    }
+  },
+  "start_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "stop_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "event_str": "TouchEvent(state=dbc76f543e3b7b78293fbda4195cdcac, view=97f7d2a3236673511ce8ded9651ffeb3(MainActivity/Button-))"
+}

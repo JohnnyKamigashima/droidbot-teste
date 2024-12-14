@@ -1,0 +1,11 @@
+{
+  "tag": "2024-12-14_150754",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am force-stop com.blogspot.e_kanivets.moneytracker"
+  },
+  "start_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "stop_state": "cda898ddca8254fbc9817923a3e392ab",
+  "event_str": "IntentEvent(intent='am force-stop com.blogspot.e_kanivets.moneytracker')"
+}

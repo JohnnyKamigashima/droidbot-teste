@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_150550",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          360,
+          1178
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/btnAddExpense",
+      "checked": false,
+      "text": "ADICIONAR DESPESA",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 35,
+      "size": "360*102",
+      "signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddExpense[text]ADICIONAR DESPESA[enabled,,]",
+      "view_str": "c195524070c014c1cbc8058d7c848a9e",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddExpense",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "12",
+      "desc": "<button bound_box=360,1178,720,1280>ADICIONAR DESPESA</button>"
+    }
+  },
+  "start_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "stop_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "event_str": "TouchEvent(state=7775cfa1e5944d3b7f0960580ab34ff8, view=c195524070c014c1cbc8058d7c848a9e(MainActivity/Button-ADICIONAR ))"
+}

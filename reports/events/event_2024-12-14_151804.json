@@ -1,0 +1,49 @@
+{
+  "tag": "2024-12-14_151804",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.lojinha",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          252,
+          329
+        ],
+        [
+          468,
+          545
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 10,
+      "size": "216*216",
+      "signature": "[class]android.widget.ImageView[resource_id]None[text]None[enabled,,]",
+      "view_str": "1a5d090760259c0410374f7b9f9524b6",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]None"
+    }
+  },
+  "start_state": "de2afd80035e87971a2c3b123dce062b",
+  "stop_state": "de2afd80035e87971a2c3b123dce062b",
+  "event_str": "TouchEvent(state=de2afd80035e87971a2c3b123dce062b, view=1a5d090760259c0410374f7b9f9524b6(MainActivity/ImageView-))"
+}

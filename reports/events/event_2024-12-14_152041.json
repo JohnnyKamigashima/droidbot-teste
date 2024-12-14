@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_152041",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Mais op\u00e7\u00f5es",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          610,
+          6
+        ],
+        [
+          678,
+          82
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/more_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "68*76",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.android.systemui:id/more_button[text]None[enabled,,]",
+      "view_str": "f3585d0a11845a01030b2b56653055b9",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.android.systemui:id/more_button",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "3",
+      "desc": "<button text='Mais op\u00e7\u00f5es' bound_box=610,6,678,82></button>"
+    }
+  },
+  "start_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "stop_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "event_str": "TouchEvent(state=dbc76f543e3b7b78293fbda4195cdcac, view=f3585d0a11845a01030b2b56653055b9(MainActivity/ImageButton-))"
+}

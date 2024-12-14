@@ -1,0 +1,58 @@
+{
+  "tag": "2024-12-14_151628",
+  "event": {
+    "event_type": "long_touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.lojinha",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": true,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          672
+        ],
+        [
+          688,
+          783
+        ]
+      ],
+      "resource_id": "com.lojinha:id/editText",
+      "checked": false,
+      "text": "Senha",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "656*111",
+      "signature": "[class]android.widget.EditText[resource_id]com.lojinha:id/editText[text]Senha[enabled,,]",
+      "view_str": "c6f2770e2a9aa3b67e149941455dcd7d",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.lojinha:id/editText",
+      "allowed_actions": [
+        "touch",
+        "set_text",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "1",
+      "desc": "<input bound_box=32,672,688,783>Senha</input>"
+    },
+    "duration": 2000
+  },
+  "start_state": "de2afd80035e87971a2c3b123dce062b",
+  "stop_state": "de2afd80035e87971a2c3b123dce062b",
+  "event_str": "LongTouchEvent(state=de2afd80035e87971a2c3b123dce062b, view=c6f2770e2a9aa3b67e149941455dcd7d(MainActivity/EditText-Senha))"
+}

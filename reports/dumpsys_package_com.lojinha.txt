@@ -1,0 +1,132 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        6dc7ee8 com.lojinha/.ui.MainActivity filter a89908b
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.lojinha]
+      Signing KeySets: 753
+
+Packages:
+  Package [com.lojinha] (9fce901):
+    userId=10452
+    pkg=Package{773b3a6 com.lojinha}
+    codePath=/data/app/com.lojinha-cJNgzlxCdA8OKSoWVL2QxA==
+    resourcePath=/data/app/com.lojinha-cJNgzlxCdA8OKSoWVL2QxA==
+    legacyNativeLibraryDir=/data/app/com.lojinha-cJNgzlxCdA8OKSoWVL2QxA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    dexMode=unknown
+    versionCode=2 minSdk=21 targetSdk=30
+    versionName=1.0.1
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{56441e7 com.lojinha}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.lojinha
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2024-12-14 15:27:20
+    firstInstallTime=2024-12-14 15:27:23
+    lastUpdateTime=2024-12-14 15:27:23
+    signatures=PackageSignatures{76ea194 [a10b1a7a]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    requested permissions:
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=459383 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false
+      gids=[3003]
+      runtime permissions:
+mSkippingApks:
+  package : AxelSpringer.apk
+  package : AndroidPay_erasable_Hero.apk
+  package : UnifiedWFC.apk
+  package : Omc.apk
+  package : SamsungUpdates.apk
+  package : RcsSettings.apk
+  package : OMCAgent.apk
+  package : AirtelStub.apk
+  package : KT114Provider.apk
+
+Package Changes:
+  Sequence number=58
+  User 0:
+    seq=4, package=com.google.ar.core
+    seq=9, package=com.android.chrome
+    seq=13, package=com.google.android.gms
+    seq=19, package=com.samsung.android.spayfw
+    seq=20, package=com.spotify.music
+    seq=21, package=eu.darken.sdmse
+    seq=22, package=com.duckduckgo.mobile.android
+    seq=31, package=com.sec.android.app.sbrowser
+    seq=49, package=com.android.settings
+    seq=53, package=com.blogspot.e_kanivets.moneytracker
+    seq=56, package=io.github.ylimit.droidbotapp
+    seq=57, package=com.lojinha
+
+
+Dexopt state:
+  [com.lojinha]
+    Instruction Set: arm64
+      path: /data/app/com.lojinha-cJNgzlxCdA8OKSoWVL2QxA==/base.apk
+      status: /data/app/com.lojinha-cJNgzlxCdA8OKSoWVL2QxA==/oat/arm64/base.odex[status=kOatUpToDate, compilation_filter
+      =quicken]
+
+
+Compiler stats:
+  [com.lojinha]
+     base.apk - 2183
+
+
+Package White/Blacklist Metadata:
+
+Historical install Logging info(9/10):
+  [com.blogspot.e_kanivets.moneytracker]
+    1734200642683: "Ver":"35", "Session":"0", "Write":"14", "Commit":"608", "Stage":"34", "Init":"316", "Copy":"49", "Si
+    gn":"75", "DexOpt":"2249", 
+  [protect.budgetwatch]
+    1734200120700: "Ver":"28", "Session":"0", "Write":"8", "Commit":"443", "Stage":"25", "Init":"372", 
+  [io.github.ylimit.droidbotapp]
+    1734200830629: "Ver":"1", "Session":"0", "Write":"3", "Commit":"428", "Stage":"20", "Init":"300", "Copy":"21", "Sign
+    ":"17", "DexOpt":"1198", 
+  [com.lojinha]
+    1734200840031: "Ver":"2", "Session":"0", "Write":"3", "Commit":"807", "Stage":"34", "Init":"278", "Copy":"18", "Sign
+    ":"67", "DexOpt":"2188", 
+
+-------- coreapps list --------
+com.sec.location.nsflp2:/system/priv-app/NSFusedLocation_v3.2
+com.google.android.ext.services:/system/priv-app/GoogleExtServices
+com.android.providers.telephony:/system/priv-app/SecTelephonyProvider
+com.google.android.ext.shared:/system/app/GoogleExtShared
+com.samsung.android.incallui:/system/priv-app/SamsungInCallUI
+com.samsung.android.knox.containercore:/system/priv-app/KnoxCore
+com.sec.vsimservice:/system/app/vsimservice
+org.simalliance.openmobileapi.service:/system/app/SmartcardService
+com.android.mms.service:/system/priv-app/MmsService
+com.samsung.ucs.agent.boot:/system/app/bootagent
+com.android.defcontainer:/system/priv-app/DefaultContainerService
+com.sec.ims:/system/priv-app/ImsTelephonyService
+com.sec.sve:/system/app/sveservice
+com.samsung.android.SettingsReceiver:/system/priv-app/SettingsReceiver
+android:/system/framework/framework-res.apk
+com.android.providers.settings:/system/priv-app/SecSettingsProvider
+com.sec.imsservice:/system/priv-app/imsservice
+com.android.inputdevices:/system/priv-app/InputDevices
+com.samsung.knox.securefolder:/system/priv-app/SecureFolder
+com.samsung.advp.imssettings:/system/app/ImsSettings
+com.sec.android.inputmethod:/system/app/SamsungIMEv3.0
+com.android.server.telecom:/system/priv-app/Telecom
+com.google.android.packageinstaller:/system/priv-app/GooglePackageInstaller
+com.android.proxyhandler:/system/priv-app/ProxyHandler
+com.sec.phone:/system/app/SecFactoryPhoneTest
+com.sec.app.RilErrorNotifier:/system/priv-app/PhoneErrService
+com.android.settings:/system/priv-app/SecSettings
+com.android.phone:/system/priv-app/TeleService
+com.android.shell:/system/priv-app/Shell
+com.android.location.fused:/system/priv-app/FusedLocation
+com.sec.epdg:/system/priv-app/EpdgService
+com.android.systemui:/system/priv-app/SystemUI

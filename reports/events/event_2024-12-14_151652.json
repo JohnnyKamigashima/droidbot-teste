@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_151652",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.lojinha",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          32,
+          1152
+        ],
+        [
+          688,
+          1248
+        ]
+      ],
+      "resource_id": "com.lojinha:id/button",
+      "checked": false,
+      "text": "ENTRAR",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "656*96",
+      "signature": "[class]android.widget.Button[resource_id]com.lojinha:id/button[text]ENTRAR[enabled,,]",
+      "view_str": "d83d6772d15eb9c63ee6e82be8831fb5",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.lojinha:id/button",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<button bound_box=32,1152,688,1248>ENTRAR</button>"
+    }
+  },
+  "start_state": "e3c53d173c17f34686e5a2c271ebefc3",
+  "stop_state": "a3a71eeea77e5ce72d6c0267d9a2e35a",
+  "event_str": "TouchEvent(state=e3c53d173c17f34686e5a2c271ebefc3, view=d83d6772d15eb9c63ee6e82be8831fb5(MainActivity/Button-ENTRAR))"
+}

@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_150820",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.sec.android.app.sbrowser",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          68,
+          1136
+        ],
+        [
+          298,
+          1208
+        ]
+      ],
+      "resource_id": "android:id/button2",
+      "checked": false,
+      "text": "Agora n\u00e3o",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "230*72",
+      "signature": "[class]android.widget.Button[resource_id]android:id/button2[text]Agora n\u00e3o[enabled,,]",
+      "view_str": "8d2cbda3b4b579ad93bab179711f833d",
+      "content_free_signature": "[class]android.widget.Button[resource_id]android:id/button2",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<button bound_box=68,1136,298,1208>Agora n\u00e3o</button>"
+    }
+  },
+  "start_state": "d932629eeac789e754d449383e45ef77",
+  "stop_state": "aaba96a6cb6c76ca6203b0a40fc96d6e",
+  "event_str": "TouchEvent(state=d932629eeac789e754d449383e45ef77, view=8d2cbda3b4b579ad93bab179711f833d(SBrowserMainActivity/Button-Agora n\u00e3o))"
+}

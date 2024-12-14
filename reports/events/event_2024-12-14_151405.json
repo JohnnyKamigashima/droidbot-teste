@@ -1,0 +1,49 @@
+{
+  "tag": "2024-12-14_151405",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          611,
+          245
+        ],
+        [
+          659,
+          293
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/iv_more",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 23,
+      "size": "48*48",
+      "signature": "[class]android.widget.ImageView[resource_id]com.blogspot.e_kanivets.moneytracker:id/iv_more[text]None[enabled,,]",
+      "view_str": "ceb8cfd02014f8b63507a323706d96ab",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.blogspot.e_kanivets.moneytracker:id/iv_more"
+    }
+  },
+  "start_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "stop_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "event_str": "TouchEvent(state=7775cfa1e5944d3b7f0960580ab34ff8, view=ceb8cfd02014f8b63507a323706d96ab(MainActivity/ImageView-))"
+}

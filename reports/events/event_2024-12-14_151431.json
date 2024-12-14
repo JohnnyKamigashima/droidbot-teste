@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_151431",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          554,
+          347
+        ],
+        [
+          659,
+          385
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/tvTotalIncome",
+      "checked": false,
+      "text": "+ 0 NON",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 27,
+      "size": "105*38",
+      "signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvTotalIncome[text]+ 0 NON[enabled,,]",
+      "view_str": "f372cdb0e9f3504b0fb4266d1be6e6f3",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvTotalIncome",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "7",
+      "desc": "<button bound_box=554,347,659,385>+ 0 NON</button>"
+    }
+  },
+  "start_state": "6cb79e1bdddc64c364e881bbd6022558",
+  "stop_state": "da41f5440317887a108e50ecd30923b3",
+  "event_str": "TouchEvent(state=6cb79e1bdddc64c364e881bbd6022558, view=f372cdb0e9f3504b0fb4266d1be6e6f3(AddRecordActivity/TextView-+ 0 NON))"
+}

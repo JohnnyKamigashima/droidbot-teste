@@ -1,0 +1,11 @@
+{
+  "tag": "2024-12-14_151738",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am force-stop com.lojinha"
+  },
+  "start_state": "e3c53d173c17f34686e5a2c271ebefc3",
+  "stop_state": "fd6545b732dfef51ec1dc1b188e8f891",
+  "event_str": "IntentEvent(intent='am force-stop com.lojinha')"
+}

@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_152037",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Abrir configura\u00e7\u00f5es.",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          538,
+          6
+        ],
+        [
+          606,
+          82
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/settings_button",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "68*76",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.android.systemui:id/settings_button[text]None[enabled,,]",
+      "view_str": "a7f6812b83a776e2d0fb955adc49678a",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.android.systemui:id/settings_button",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<button text='Abrir configura\u00e7\u00f5es.' bound_box=538,6,606,82></button>"
+    }
+  },
+  "start_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "stop_state": "dbc76f543e3b7b78293fbda4195cdcac",
+  "event_str": "TouchEvent(state=dbc76f543e3b7b78293fbda4195cdcac, view=a7f6812b83a776e2d0fb955adc49678a(MainActivity/ImageButton-))"
+}

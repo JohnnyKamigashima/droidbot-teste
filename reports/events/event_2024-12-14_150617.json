@@ -1,0 +1,60 @@
+{
+  "tag": "2024-12-14_150617",
+  "event": {
+    "event_type": "long_touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          357,
+          56
+        ],
+        [
+          720,
+          152
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/spinner",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 8,
+      "temp_id": 11,
+      "size": "363*96",
+      "signature": "[class]android.widget.Spinner[resource_id]com.blogspot.e_kanivets.moneytracker:id/spinner[text]None[enabled,,]",
+      "view_str": "b264c062a6ae3abb17a8092820201b3e",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]com.blogspot.e_kanivets.moneytracker:id/spinner",
+      "allowed_actions": [
+        "scroll up",
+        "scroll down",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<button bound_box=357,56,720,152></button>"
+    },
+    "duration": 2000
+  },
+  "start_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "stop_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "event_str": "LongTouchEvent(state=7775cfa1e5944d3b7f0960580ab34ff8, view=b264c062a6ae3abb17a8092820201b3e(MainActivity/Spinner-))"
+}

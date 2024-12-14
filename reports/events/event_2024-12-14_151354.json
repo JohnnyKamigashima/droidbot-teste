@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_151354",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          226
+        ],
+        [
+          308,
+          280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Breve resumo",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "247*54",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Breve resumo[enabled,,]",
+      "view_str": "715257abe6fb92acf4427d42de9d5ca1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "4",
+      "desc": "<button bound_box=61,226,308,280>Breve resumo</button>"
+    }
+  },
+  "start_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "stop_state": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "event_str": "TouchEvent(state=7775cfa1e5944d3b7f0960580ab34ff8, view=715257abe6fb92acf4427d42de9d5ca1(MainActivity/TextView-Breve resu))"
+}

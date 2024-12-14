@@ -1,0 +1,1610 @@
+{
+  "tag": "2024-12-14_151247",
+  "state_str": "7775cfa1e5944d3b7f0960580ab34ff8",
+  "state_str_content_free": "8607b7ba960c6da4af33f274bdb25743",
+  "foreground_activity": "com.blogspot.e_kanivets.moneytracker/.activity.record.MainActivity",
+  "activity_stack": [
+    "com.blogspot.e_kanivets.moneytracker/.activity.record.MainActivity"
+  ],
+  "background_services": [
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.SmsService",
+    "com.google.android.gms/.play.integrity.api.service.IntegrityApiPersistentService",
+    "com.google.android.gms/.chimera.PersistentInternalBoundBrokerService",
+    "com.google.android.gms/.ipa.base.IpaGcmTaskService",
+    "com.google.android.gms/.nearby.sharing.ReceiveSurfaceService",
+    "com.google.android.gms/.icing.service.AppIndexingService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.sec.android.inputmethod/com.nuance.connect.service.ConnectClient",
+    "com.android.bluetooth/.btservice.AdapterService",
+    "com.x8bit.bitwarden/.Accessibility.AccessibilityService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.sec.epdg/.EpdgService",
+    "com.samsung.enhanceservice/.EnhanceService",
+    "com.sec.ims/.ImsTelephonyService",
+    "com.sec.imsservice/com.sec.internal.ims.entitlement.nsds.NSDSMultiSimService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.sec.enterprise.mdm.services.simpin/.EnterpriseSimPin",
+    "com.google.android.gms/.chimera.PersistentApiServiceNoInstantApps",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.PresenceService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.dsi.ant.server/.AntService",
+    "com.google.android.gms/.location.geocode.GeocodeService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.CapabilityService",
+    "com.sec.location.nsflp2/.nsmonitor.NSMonitorService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.android.bluetooth/.gatt.GattService",
+    "com.google.android.gms/.chimera.GmsBoundBrokerService",
+    "com.android.bluetooth/.sap.SapService",
+    "com.google.android.gms/.findmydevice.spot.bleadvertising.OfflineBeaconService_Persistent",
+    "com.google.android.gms/.nearby.sharing.SendSurfaceService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.semanticlocation.service.SemanticLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.android.vending/com.google.frameworks.client.data.android.server.play.BackgroundProcessEndpointService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.ImsService",
+    "com.android.bluetooth/.a2dp.A2dpService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.samsung.sec.android.application.csc/.CscUpdateService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.trustonic.tuiservice/.TuiService",
+    "com.sec.spp.push/.PushClientService",
+    "com.sec.sve/.service.SecVideoEngineService",
+    "com.android.systemui/.SystemUIService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.samsung.android.smartface/.SmartFaceServiceStarter",
+    "com.sec.android.app.launcher/com.android.launcher3.notification.NotificationListener",
+    "com.samsung.cmh/.service.CMHService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.samsung.android.lool/com.samsung.android.sm.widgetapp.SMWidgetService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.UtService",
+    "com.samsung.android.MtpApplication/.MtpService",
+    "com.google.android.gms/.auth.trustagent.GoogleTrustAgent",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.sec.android.app.sbrowser/org.chromium.content.app.SandboxedProcessService0",
+    "com.android.server.telecom/.AutoCSPService",
+    "com.sec.android.app.sbrowser/org.chromium.content.app.PrivilegedProcessService0",
+    "com.android.server.telecom/.components.BluetoothPhoneService",
+    "com.google.android.gms/.fido.authenticator.service.AuthenticatorService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.android.stk/.StkAppService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "android/com.android.server.DrmEventService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.samsung.android.providers.context/.ContextService",
+    "com.google.android.gms/.crisisalerts.init.CrisisAlertsPersistentService",
+    "android/com.android.internal.backup.LocalTransportService",
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.google.android.gms/.dtdi.lifecycle.LifecycleService",
+    "com.google.android.gms/.chimera.GmsInternalBoundBrokerService",
+    "com.samsung.dcmservice/.DCMService",
+    "com.samsung.android.beaconmanager/.BeaconService",
+    "com.sec.imsservice/com.sec.internal.ims.imsservice.VolteService2",
+    "com.android.stk2/.StkAppService",
+    "com.google.android.gms/.personalsafety.service.PersonalSafetyService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.gms/.backup.component.D2dTransportService",
+    "com.samsung.android.stickercenter/.StickerCenterService",
+    "com.google.android.gms/.icing.service.IndexService",
+    "com.android.bluetooth/.pan.PanService",
+    "com.google.android.gms/.backup.BackupTransportService",
+    "com.sec.phone/.SecPhoneService"
+  ],
+  "width": 1440,
+  "height": 2560,
+  "views": [
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "9a30c9f067d769b7f41c82d342045fd6",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "720*1280",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "85472c3b29424eba54ff4be94ad0f905",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "b9d85ff8bbc63fee39511938bc1669ec",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/action_bar_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "720*1280",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.blogspot.e_kanivets.moneytracker:id/action_bar_root[text]None[enabled,,]",
+      "view_str": "2608c2e3b71b9016d2bb689a4473b600",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.blogspot.e_kanivets.moneytracker:id/action_bar_root"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "720*1280",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "3cd65dbab7c11e357730afc24c2d7df0",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/drawer_layout",
+      "checked": false,
+      "text": null,
+      "class": "androidx.drawerlayout.widget.DrawerLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "720*1280",
+      "signature": "[class]androidx.drawerlayout.widget.DrawerLayout[resource_id]com.blogspot.e_kanivets.moneytracker:id/drawer_layout[text]None[enabled,,]",
+      "view_str": "842ab90b6ebef1c8fa7a829f94200573",
+      "content_free_signature": "[class]androidx.drawerlayout.widget.DrawerLayout[resource_id]com.blogspot.e_kanivets.moneytracker:id/drawer_layout"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        7,
+        14
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "720*1280",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "7064d52414a09a66809f84c87ffbeb35",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          48
+        ],
+        [
+          720,
+          160
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "720*112",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "2af4cc3d0522dbd59737ea94beb19f05",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9,
+        10,
+        11,
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          48
+        ],
+        [
+          720,
+          160
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/toolbar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "720*112",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.blogspot.e_kanivets.moneytracker:id/toolbar[text]None[enabled,,]",
+      "view_str": "18c96f2b29ee710024ed794c37b1ed9f",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.blogspot.e_kanivets.moneytracker:id/toolbar"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Open navigation drawer",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          48
+        ],
+        [
+          112,
+          160
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "112*112",
+      "signature": "[class]android.widget.ImageButton[resource_id]None[text]None[enabled,,]",
+      "view_str": "c30b9619d7b16c4da4135885b8ce8cd7",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "0",
+      "desc": "<button text='Open navigation drawer' bound_box=0,48,112,160></button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          144,
+          77
+        ],
+        [
+          300,
+          131
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Registos",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 10,
+      "size": "156*54",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Registos[enabled,,]",
+      "view_str": "6c15a240fc7688b26dfcf7e777f147d6",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "1",
+      "desc": "<p bound_box=144,77,300,131>Registos</p>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          357,
+          56
+        ],
+        [
+          720,
+          152
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/spinner",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 8,
+      "temp_id": 11,
+      "size": "363*96",
+      "signature": "[class]android.widget.Spinner[resource_id]com.blogspot.e_kanivets.moneytracker:id/spinner[text]None[enabled,,]",
+      "view_str": "b264c062a6ae3abb17a8092820201b3e",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]com.blogspot.e_kanivets.moneytracker:id/spinner",
+      "allowed_actions": [
+        "scroll up",
+        "scroll down",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "2",
+      "desc": "<button bound_box=357,56,720,152></button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          357,
+          56
+        ],
+        [
+          537,
+          152
+        ]
+      ],
+      "resource_id": "android:id/text1",
+      "checked": false,
+      "text": "Semana",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "180*96",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]Semana[enabled,,]",
+      "view_str": "372bb6d7ad55daeaa4b2eea47ca5fa3e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1",
+      "allowed_actions": [
+        "touch",
+        "long_touch"
+      ],
+      "special_attrs": [],
+      "local_id": "3",
+      "desc": "<button bound_box=357,56,537,152>Semana</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          48
+        ],
+        [
+          720,
+          160
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "androidx.appcompat.widget.LinearLayoutCompat",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 13,
+      "size": "0*112",
+      "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+      "view_str": "d40b969a6d58e015a2777b8ba7d82fa7",
+      "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15,
+        33
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          160
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 14,
+      "size": "720*1120",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4b4660627569f4f30345272404ea973c",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        16
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          160
+        ],
+        [
+          720,
+          1178
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/recyclerView",
+      "checked": false,
+      "text": null,
+      "class": "androidx.recyclerview.widget.RecyclerView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "720*1018",
+      "signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.blogspot.e_kanivets.moneytracker:id/recyclerView[text]None[enabled,,]",
+      "view_str": "11275811c62318539abc0d95640249b9",
+      "content_free_signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.blogspot.e_kanivets.moneytracker:id/recyclerView"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": false,
+      "content_description": null,
+      "children": [
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          160
+        ],
+        [
+          720,
+          569
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/lvSummary",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 16,
+      "size": "720*409",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.blogspot.e_kanivets.moneytracker:id/lvSummary[text]None[,,]",
+      "view_str": "d9882a87f769fca9db4964d297b72b08",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.blogspot.e_kanivets.moneytracker:id/lvSummary"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        18
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          16,
+          176
+        ],
+        [
+          704,
+          561
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/cvSummary",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "688*385",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.blogspot.e_kanivets.moneytracker:id/cvSummary[text]None[enabled,,]",
+      "view_str": "2b58f83016319055d56f51af9946ad55",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.blogspot.e_kanivets.moneytracker:id/cvSummary"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19,
+        24,
+        25,
+        28,
+        31,
+        32
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          29,
+          194
+        ],
+        [
+          691,
+          543
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 17,
+      "temp_id": 18,
+      "size": "662*349",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "042e651bcfa2663bf85e0067738b2da1",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        20,
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          226
+        ],
+        [
+          659,
+          313
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "598*87",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "0105ccd318a2e415f233903622fea6df",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21,
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          226
+        ],
+        [
+          611,
+          313
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 20,
+      "size": "550*87",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "150aad3aabbec0d7fd1145c1e30cf0ef",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          226
+        ],
+        [
+          308,
+          280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Breve resumo",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "247*54",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Breve resumo[enabled,,]",
+      "view_str": "715257abe6fb92acf4427d42de9d5ca1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "4",
+      "desc": "<button bound_box=61,226,308,280>Breve resumo</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          280
+        ],
+        [
+          349,
+          313
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/tvPeriod",
+      "checked": false,
+      "text": "08 dez, 2024 - 14 dez, 2024",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 22,
+      "size": "288*33",
+      "signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvPeriod[text]08 dez, 2024 - 14 dez, 2024[enabled,,]",
+      "view_str": "ce1516b107f7c867a1aafeaa90b5fe8b",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvPeriod",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "5",
+      "desc": "<button bound_box=61,280,349,313>08 dez, 2024 - 14 dez, 2024</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          611,
+          245
+        ],
+        [
+          659,
+          293
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/iv_more",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 23,
+      "size": "48*48",
+      "signature": "[class]android.widget.ImageView[resource_id]com.blogspot.e_kanivets.moneytracker:id/iv_more[text]None[enabled,,]",
+      "view_str": "ceb8cfd02014f8b63507a323706d96ab",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.blogspot.e_kanivets.moneytracker:id/iv_more"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          329
+        ],
+        [
+          659,
+          331
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 24,
+      "size": "598*2",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "0733c98b8c4171e7c43cb4a2eb7dbe1e",
+      "content_free_signature": "[class]android.view.View[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        26,
+        27
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          347
+        ],
+        [
+          659,
+          385
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 25,
+      "size": "598*38",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "d888162069a77cc756ac50abb778b4bf",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          347
+        ],
+        [
+          554,
+          385
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Receita total",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "493*38",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Receita total[enabled,,]",
+      "view_str": "894afe66fcc296efb54d5737568a08f6",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "6",
+      "desc": "<button bound_box=61,347,554,385>Receita total</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          554,
+          347
+        ],
+        [
+          659,
+          385
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/tvTotalIncome",
+      "checked": false,
+      "text": "+ 0 NON",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 27,
+      "size": "105*38",
+      "signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvTotalIncome[text]+ 0 NON[enabled,,]",
+      "view_str": "f372cdb0e9f3504b0fb4266d1be6e6f3",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvTotalIncome",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "7",
+      "desc": "<button bound_box=554,347,659,385>+ 0 NON</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        29,
+        30
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          401
+        ],
+        [
+          659,
+          439
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 28,
+      "size": "598*38",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "c72531e16924ad1daef072d3a0950c9d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          401
+        ],
+        [
+          562,
+          439
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Despesa total",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 29,
+      "size": "501*38",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Despesa total[enabled,,]",
+      "view_str": "10123663c84aa0c3fee976fa57163b2f",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "8",
+      "desc": "<button bound_box=61,401,562,439>Despesa total</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          562,
+          401
+        ],
+        [
+          659,
+          439
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/tvTotalExpense",
+      "checked": false,
+      "text": "- 0 NON",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 30,
+      "size": "97*38",
+      "signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvTotalExpense[text]- 0 NON[enabled,,]",
+      "view_str": "a38edd30d1dc7eb6a9f698c726a2a3c0",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvTotalExpense",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "9",
+      "desc": "<button bound_box=562,401,659,439>- 0 NON</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          455
+        ],
+        [
+          659,
+          457
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 31,
+      "size": "598*2",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "0733c98b8c4171e7c43cb4a2eb7dbe1e",
+      "content_free_signature": "[class]android.view.View[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          61,
+          473
+        ],
+        [
+          659,
+          511
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/tvTotal",
+      "checked": false,
+      "text": "+ 0 NON",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 32,
+      "size": "598*38",
+      "signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvTotal[text]+ 0 NON[enabled,,]",
+      "view_str": "f0b69f5195b39ec44d35535633a97390",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.blogspot.e_kanivets.moneytracker:id/tvTotal",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "10",
+      "desc": "<button bound_box=61,473,659,511>+ 0 NON</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        34,
+        35
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1178
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 33,
+      "size": "720*102",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3316830d9dbe5efc08ea2c9a04b3d18c",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1178
+        ],
+        [
+          360,
+          1280
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/btnAddIncome",
+      "checked": false,
+      "text": "ADICIONAR RECEITA",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "360*102",
+      "signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddIncome[text]ADICIONAR RECEITA[enabled,,]",
+      "view_str": "5b522e1579d4e51ee6d2dec91edce267",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddIncome",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "11",
+      "desc": "<button bound_box=0,1178,360,1280>ADICIONAR RECEITA</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          360,
+          1178
+        ],
+        [
+          720,
+          1280
+        ]
+      ],
+      "resource_id": "com.blogspot.e_kanivets.moneytracker:id/btnAddExpense",
+      "checked": false,
+      "text": "ADICIONAR DESPESA",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 35,
+      "size": "360*102",
+      "signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddExpense[text]ADICIONAR DESPESA[enabled,,]",
+      "view_str": "c195524070c014c1cbc8058d7c848a9e",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.blogspot.e_kanivets.moneytracker:id/btnAddExpense",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "12",
+      "desc": "<button bound_box=360,1178,720,1280>ADICIONAR DESPESA</button>"
+    },
+    {
+      "package": "com.blogspot.e_kanivets.moneytracker",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          720,
+          48
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 36,
+      "size": "720*48",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "view_str": "c9363482b9ceed98a597ecaaedd08148",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+    }
+  ]
+}

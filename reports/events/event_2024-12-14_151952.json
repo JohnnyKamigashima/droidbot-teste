@@ -1,0 +1,55 @@
+{
+  "tag": "2024-12-14_151952",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.android.systemui",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Painel de configura\u00e7\u00f5es de brilho",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          622,
+          158
+        ],
+        [
+          690,
+          230
+        ]
+      ],
+      "resource_id": "com.android.systemui:id/brightness_detail_icon",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 57,
+      "size": "68*72",
+      "signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/brightness_detail_icon[text]None[enabled,,]",
+      "view_str": "5a1ce7518b104630601a1ef6e7c46d90",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.android.systemui:id/brightness_detail_icon",
+      "allowed_actions": [
+        "touch"
+      ],
+      "special_attrs": [],
+      "local_id": "11",
+      "desc": "<button text='Painel de configura\u00e7\u00f5es de brilho' bound_box=622,158,690,230></button>"
+    }
+  },
+  "start_state": "9c907b481367e32783e61841140fe37a",
+  "stop_state": "9c907b481367e32783e61841140fe37a",
+  "event_str": "TouchEvent(state=9c907b481367e32783e61841140fe37a, view=5a1ce7518b104630601a1ef6e7c46d90(MainActivity/ImageView-))"
+}
